@@ -56,7 +56,7 @@ Unthinkable/
    Create a `.env` file in the root directory (or edit the existing one) and add necessary credentials/configurations:
 
    ```bash
-   API_KEY=your_api_key_here
+   GEMINI_API_KEY=your_api_key_here
    DEBUG=True
    ```
 
@@ -112,3 +112,4 @@ Would you like me to **enhance it** with:
 
 Those make your GitHub page look much more polished and professional.
 ```
+
