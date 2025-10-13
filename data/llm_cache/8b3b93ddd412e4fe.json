@@ -1,0 +1,12 @@
+{
+  "explanation": "Based on the user's recent browsing history, they show interest in self-help books, making this product a potentially relevant recommendation. Their viewing and cart activity indicate an openness to exploring new self-help titles.",
+  "evidence": [
+    "view product Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "view product 7 Wonders",
+    "view product White Cheddar Popcorn",
+    "add_to_cart product Dry Shampoo"
+  ],
+  "product_id": "P00157",
+  "user_id": "C00023",
+  "timestamp": "2025-10-12T12:35:09.213762"
+}

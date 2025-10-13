@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🎯 Smart Product Recommender</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="wrapper">
+    <h1>🎯 Smart Product Recommender</h1>
+    <p>Enter a <b>User ID</b> to generate personalized AI-powered recommendations. <br>Keep the User in between <b>C00001-C00100</b></p>
+
+    <div class="input-group">
+      <input type="text" id="user_id" placeholder="Enter User ID (e.g., C00023)" />
+      <button id="submitBtn">Get Recommendations</button>
+    </div>
+
+    <div id="loader" class="hidden">⏳ Generating recommendations...</div>
+    <div id="results"></div>
+    <div id="spinner" class="spinner hidden"></div>
+
+  </div>
+
+  <script src="/static/scripts.js"></script>
+</body>
+</html>

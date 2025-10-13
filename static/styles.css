@@ -1,0 +1,105 @@
+body {
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  background-color: #f7f9fc;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 12px;
+  padding: 30px 40px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #1a73e8;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+button {
+  background-color: #1a73e8;
+  border: none;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background-color: #155fc0;
+}
+
+.hidden {
+  display: none;
+}
+
+#loader {
+  text-align: center;
+  font-style: italic;
+  color: #555;
+}
+
+.recommendation {
+  padding: 15px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.recommendation:last-child {
+  border-bottom: none;
+}
+
+.product-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #222;
+}
+
+.meta {
+  font-size: 14px;
+  color: #666;
+}
+
+.explanation {
+  margin-top: 8px;
+}
+
+.evidence {
+  font-size: 13px;
+  color: #555;
+  margin-top: 5px;
+}
+.spinner {
+  border: 6px solid #f3f3f3;
+  border-top: 6px solid #1a73e8;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 0.8s linear infinite;
+  margin: 20px auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

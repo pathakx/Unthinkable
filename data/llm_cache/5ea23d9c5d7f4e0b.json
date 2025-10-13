@@ -1,0 +1,11 @@
+{
+  "explanation": "Based on your purchase history of electronic products and headphone-related behavior (viewing product AquaGlide Swimsuit), we recommend these headphones. Your recent purchases suggest an interest in audio-related items, making this a potentially relevant product.",
+  "evidence": [
+    "purchase product Striped Shirtdress with Belt",
+    "purchase product 4-Slice Toaster with Wide Slots",
+    "view product AquaGlide Swimsuit"
+  ],
+  "product_id": "P00003",
+  "user_id": "C00003",
+  "timestamp": "2025-10-12T13:15:45.601458"
+}

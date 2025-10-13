@@ -1,0 +1,11 @@
+{
+  "explanation": "The user has shown a recent interest in books, particularly adding one to their cart. Given the product's category of Self-help books, it aligns with the user's browsing and purchase history.",
+  "evidence": [
+    "view product Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "add_to_cart product Dry Shampoo",
+    "Category: Books > Self-help"
+  ],
+  "product_id": "P00152",
+  "user_id": "C00023",
+  "timestamp": "2025-10-12T12:35:10.600482"
+}

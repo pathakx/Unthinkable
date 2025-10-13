@@ -1,0 +1,10 @@
+{
+  "explanation": "Based on your recent activity of adding board games to your cart (7 Wonders, Men's Slides), we think you might be interested in another board game. Since you've shown interest in purchasing similar items, this could be a good fit.",
+  "evidence": [
+    "add_to_cart product 7 Wonders",
+    "add_to_cart product Men's Slides"
+  ],
+  "product_id": "P00228",
+  "user_id": "C00100",
+  "timestamp": "2025-10-12T13:07:19.704517"
+}

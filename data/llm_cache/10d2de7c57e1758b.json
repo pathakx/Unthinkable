@@ -1,0 +1,12 @@
+{
+  "explanation": "Based on the user's recent viewing activity of multiple products, including those related to home decor, we recommend this lighting product. Specifically, the user's interest in similar categories suggests a potential need or desire for lighting options.",
+  "evidence": [
+    "view product Hair Mask for Damaged Hair",
+    "view product Organic Raw Honey, 16 oz Jar",
+    "view product White Cheddar Popcorn",
+    "view product Wooden Swing Set with Slide"
+  ],
+  "product_id": "P00102",
+  "user_id": "C00078",
+  "timestamp": "2025-10-12T12:41:59.242411"
+}

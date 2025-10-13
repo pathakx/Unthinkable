@@ -1,0 +1,12 @@
+{
+  "explanation": "Based on the user's purchase history of sports-related items and recent views of other products, we recommend this item in the Sportswear category to complement their active lifestyle and previous purchases. The user has demonstrated interest in similar items, suggesting a high likelihood of relevance.",
+  "evidence": [
+    "purchase product Striped Shirtdress with Belt",
+    "purchase product 4-Slice Toaster with Wide Slots",
+    "view product AquaGlide Swimsuit",
+    "view product Apple AirPods Max"
+  ],
+  "product_id": "P00204",
+  "user_id": "C00003",
+  "timestamp": "2025-10-12T13:15:41.590830"
+}

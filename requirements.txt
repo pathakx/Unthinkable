@@ -1,0 +1,41 @@
+# =========================
+# Environment & Config
+# =========================
+python-dotenv==1.0.1                    # Load GEMINI_API_KEY from .env
+
+# =========================
+# Gemini API
+# =========================
+google-generativeai==0.5.3              # Gemini model for generating synthetic products
+
+# =========================
+# Database (SQLite)
+# =========================
+SQLAlchemy==2.0.34                      # ORM / schema handling
+sqlite-utils==3.36                      # Optional helper for inspecting SQLite DB
+
+# =========================
+# Core Utilities
+# =========================
+pandas==2.2.2                           # For CSVs, dataframes (if needed)
+numpy==1.26.4                           # For numeric calculations / discount computation
+
+# =========================
+# JSON & Data Validation
+# =========================
+jsonschema==4.23.0                      # Validate Gemini JSON output
+
+# =========================
+# Embeddings & Vector Search
+# =========================
+sentence-transformers==3.0.1            # Sentence embeddings (vector representations)
+torch==2.2.2                            # Required backend for transformers
+tqdm==4.66.4                            # Progress bars
+pyarrow==16.1.0                         # For efficient parquet/arrow data handling
+faiss-cpu                               # Vector search library
+
+# =========================
+# Web Framework
+# =========================
+flask                                   # Web framework
+flask-cors                              # Enable CORS for API requests

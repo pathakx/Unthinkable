@@ -1,0 +1,4956 @@
+{
+  "Electronics > Headphones": [
+    {
+      "product_name": "Sony WH-1000XM5 Noise Cancelling Headphones",
+      "brand": "Sony",
+      "about_product": "Industry-leading noise cancellation for personalized, virtually soundproof experience. Exceptional sound quality with crystal-clear calls.",
+      "actual_price": 449,
+      "discounted_price": 348,
+      "discount_percentage": 22.5,
+      "rating": 4.7,
+      "rating_count": 6842,
+      "features": {
+        "Noise Cancellation": "Active Noise Cancellation",
+        "Battery Life": "30 hours",
+        "Connectivity": "Bluetooth 5.2",
+        "Driver Size": "30mm"
+      },
+      "img_link": "https://example.com/sony_wh1000xm5.jpg",
+      "product_link": "https://example.com/product/sony-wh1000xm5"
+    },
+    {
+      "product_name": "Apple AirPods Max",
+      "brand": "Apple",
+      "about_product": "Effortless AirPods experience with high-fidelity audio and Active Noise Cancellation.  Spatial audio with dynamic head tracking for immersive sound.",
+      "actual_price": 549,
+      "discounted_price": 479,
+      "discount_percentage": 12.75,
+      "rating": 4.6,
+      "rating_count": 4128,
+      "features": {
+        "Noise Cancellation": "Active Noise Cancellation",
+        "Transparency Mode": "Yes",
+        "Connectivity": "Bluetooth 5.0",
+        "Spatial Audio": "Yes"
+      },
+      "img_link": "https://example.com/apple_airpods_max.jpg",
+      "product_link": "https://example.com/product/apple-airpods-max"
+    },
+    {
+      "product_name": "Bose QuietComfort 45 Headphones",
+      "brand": "Bose",
+      "about_product": "A balance of quiet, comfort, and sound.  World-class noise cancellation and high-fidelity audio for an immersive listening experience.",
+      "actual_price": 329,
+      "discounted_price": 279,
+      "discount_percentage": 15.2,
+      "rating": 4.5,
+      "rating_count": 3210,
+      "features": {
+        "Noise Cancellation": "Acoustic Noise Cancelling",
+        "Battery Life": "24 hours",
+        "Connectivity": "Bluetooth 5.1",
+        "Voice Assistant": "Google Assistant, Alexa"
+      },
+      "img_link": "https://example.com/bose_quietcomfort45.jpg",
+      "product_link": "https://example.com/product/bose-quietcomfort45"
+    },
+    {
+      "product_name": "Sennheiser HD 660 S Open-Back Headphones",
+      "brand": "Sennheiser",
+      "about_product": "Audiophile-grade open-back headphones for a natural and detailed sound experience.  Perfect for critical listening and studio use.",
+      "actual_price": 499,
+      "discounted_price": 399,
+      "discount_percentage": 20.0,
+      "rating": 4.8,
+      "rating_count": 1857,
+      "features": {
+        "Headphone Type": "Open-Back",
+        "Impedance": "150 ohms",
+        "Frequency Response": "10 - 41,000 Hz",
+        "THD": "< 0.04%"
+      },
+      "img_link": "https://example.com/sennheiser_hd660s.jpg",
+      "product_link": "https://example.com/product/sennheiser-hd660s"
+    },
+    {
+      "product_name": "Beats Studio3 Wireless Headphones",
+      "brand": "Beats",
+      "about_product": "Premium listening experience with Pure Adaptive Noise Cancelling (Pure ANC).  Real-time audio calibration preserves premium sound.",
+      "actual_price": 349,
+      "discounted_price": 229,
+      "discount_percentage": 34.4,
+      "rating": 4.3,
+      "rating_count": 2548,
+      "features": {
+        "Noise Cancellation": "Pure ANC",
+        "Battery Life": "22 hours",
+        "Connectivity": "Bluetooth, W1 Chip",
+        "Fast Fuel": "10 minutes charge = 3 hours playback"
+      },
+      "img_link": "https://example.com/beats_studio3.jpg",
+      "product_link": "https://example.com/product/beats-studio3"
+    },
+    {
+      "product_name": "JBL Tune 510BT Wireless On-Ear Headphones",
+      "brand": "JBL",
+      "about_product": "JBL Pure Bass sound and wireless Bluetooth streaming. Lightweight, comfortable and foldable design.",
+      "actual_price": 49,
+      "discounted_price": 39,
+      "discount_percentage": 20.4,
+      "rating": 4.4,
+      "rating_count": 8976,
+      "features": {
+        "Sound": "JBL Pure Bass",
+        "Battery Life": "40 hours",
+        "Connectivity": "Bluetooth 5.0",
+        "Multi-Point Connection": "Yes"
+      },
+      "img_link": "https://example.com/jbl_tune510bt.jpg",
+      "product_link": "https://example.com/product/jbl-tune510bt"
+    },
+    {
+      "product_name": "Skullcandy Hesh ANC Wireless Over-Ear Headphones",
+      "brand": "Skullcandy",
+      "about_product": "Active Noise Cancelling and powerful Skullcandy sound.  Long-lasting battery and comfortable earcups.",
+      "actual_price": 129,
+      "discounted_price": 99,
+      "discount_percentage": 23.3,
+      "rating": 4.2,
+      "rating_count": 1632,
+      "features": {
+        "Noise Cancellation": "Active Noise Cancellation",
+        "Battery Life": "22 hours",
+        "Connectivity": "Bluetooth 5.0",
+        "Rapid Charge": "10 minutes charge = 3 hours playback"
+      },
+      "img_link": "https://example.com/skullcandy_heshanc.jpg",
+      "product_link": "https://example.com/product/skullcandy-heshanc"
+    },
+    {
+      "product_name": "Technics EAH-A800 Premium Wireless Headphones",
+      "brand": "Technics",
+      "about_product": "Exceptional sound quality and industry-leading noise cancellation.  Crystal-clear call quality and premium comfort.",
+      "actual_price": 349,
+      "discounted_price": 299,
+      "discount_percentage": 14.3,
+      "rating": 4.6,
+      "rating_count": 543,
+      "features": {
+        "Noise Cancellation": "Hybrid ANC",
+        "Battery Life": "50 hours",
+        "Connectivity": "Bluetooth 5.2",
+        "LDAC": "Supported"
+      },
+      "img_link": "https://example.com/technics_eaha800.jpg",
+      "product_link": "https://example.com/product/technics-eaha800"
+    },
+    {
+      "product_name": "Anker Soundcore Life Q30 Hybrid Active Noise Cancelling Headphones",
+      "brand": "Anker",
+      "about_product": "Hybrid Active Noise Cancellation and Hi-Res Audio.  Customizable EQ and long battery life.",
+      "actual_price": 79,
+      "discounted_price": 59,
+      "discount_percentage": 25.3,
+      "rating": 4.5,
+      "rating_count": 12345,
+      "features": {
+        "Noise Cancellation": "Hybrid ANC",
+        "Battery Life": "40 hours",
+        "Connectivity": "Bluetooth 5.0",
+        "EQ Customization": "Yes"
+      },
+      "img_link": "https://example.com/anker_soundcore_lifeq30.jpg",
+      "product_link": "https://example.com/product/anker-soundcore-lifeq30"
+    },
+    {
+      "product_name": "Audio-Technica ATH-M50x Professional Studio Monitor Headphones",
+      "brand": "Audio-Technica",
+      "about_product": "Critically acclaimed sonic performance praised by top audio engineers and pro audio reviewers. Exceptional clarity throughout an extended frequency range, with deep, accurate bass response.",
+      "actual_price": 169,
+      "discounted_price": 149,
+      "discount_percentage": 11.8,
+      "rating": 4.9,
+      "rating_count": 9876,
+      "features": {
+        "Headphone Type": "Closed-Back",
+        "Driver Diameter": "45 mm",
+        "Frequency Response": "15 - 28,000 Hz",
+        "Impedance": "38 ohms"
+      },
+      "img_link": "https://example.com/audiotechnica_athm50x.jpg",
+      "product_link": "https://example.com/product/audio-technica-athm50x"
+    }
+  ],
+  "Electronics > Smartphones": [
+    {
+      "product_name": "Galaxy S23 Ultra",
+      "brand": "Samsung",
+      "about_product": "The ultimate smartphone with a built-in S Pen and incredible camera system. Capture stunning photos and videos with ease.",
+      "actual_price": 1199,
+      "discounted_price": 999,
+      "discount_percentage": 16.68,
+      "rating": 4.8,
+      "rating_count": 2345,
+      "features": {
+        "Display": "6.8-inch Dynamic AMOLED 2X",
+        "Processor": "Snapdragon 8 Gen 2",
+        "Camera": "200MP Main, 12MP Ultrawide, 10MP Telephoto x2",
+        "Storage": "256GB",
+        "RAM": "8GB"
+      },
+      "img_link": "https://example.com/s23ultra.jpg",
+      "product_link": "https://example.com/products/s23ultra"
+    },
+    {
+      "product_name": "iPhone 15 Pro",
+      "brand": "Apple",
+      "about_product": "Experience the power of the A17 Bionic chip and the advanced camera features. Built with a durable design.",
+      "actual_price": 1099,
+      "discounted_price": 949,
+      "discount_percentage": 13.65,
+      "rating": 4.7,
+      "rating_count": 1876,
+      "features": {
+        "Display": "6.1-inch Super Retina XDR",
+        "Processor": "A17 Bionic",
+        "Camera": "48MP Main, 12MP Ultrawide, 12MP Telephoto",
+        "Storage": "128GB",
+        "Operating System": "iOS 17"
+      },
+      "img_link": "https://example.com/iphone15pro.jpg",
+      "product_link": "https://example.com/products/iphone15pro"
+    },
+    {
+      "product_name": "Pixel 8 Pro",
+      "brand": "Google",
+      "about_product": "Powered by Google AI for exceptional photos and a seamless user experience. Enhanced security features.",
+      "actual_price": 999,
+      "discounted_price": 849,
+      "discount_percentage": 15.02,
+      "rating": 4.6,
+      "rating_count": 1543,
+      "features": {
+        "Display": "6.7-inch OLED",
+        "Processor": "Google Tensor G3",
+        "Camera": "50MP Main, 48MP Ultrawide, 48MP Telephoto",
+        "Storage": "128GB",
+        "Water Resistance": "IP68"
+      },
+      "img_link": "https://example.com/pixel8pro.jpg",
+      "product_link": "https://example.com/products/pixel8pro"
+    },
+    {
+      "product_name": "OnePlus 11",
+      "brand": "OnePlus",
+      "about_product": "Blazing-fast performance and a vibrant display with the latest OxygenOS. Premium build quality.",
+      "actual_price": 799,
+      "discounted_price": 699,
+      "discount_percentage": 12.52,
+      "rating": 4.5,
+      "rating_count": 1234,
+      "features": {
+        "Display": "6.7-inch Fluid AMOLED",
+        "Processor": "Snapdragon 8 Gen 2",
+        "Camera": "50MP Main, 48MP Ultrawide, 32MP Telephoto",
+        "Storage": "256GB",
+        "RAM": "8GB"
+      },
+      "img_link": "https://example.com/oneplus11.jpg",
+      "product_link": "https://example.com/products/oneplus11"
+    },
+    {
+      "product_name": "Xiaomi 13 Pro",
+      "brand": "Xiaomi",
+      "about_product": "Exceptional camera capabilities and fast charging. Elegant design with a powerful processor.",
+      "actual_price": 899,
+      "discounted_price": 749,
+      "discount_percentage": 16.69,
+      "rating": 4.4,
+      "rating_count": 987,
+      "features": {
+        "Display": "6.73-inch AMOLED",
+        "Processor": "Snapdragon 8 Gen 2",
+        "Camera": "50MP Main, 50MP Ultrawide, 50MP Telephoto",
+        "Storage": "256GB",
+        "Charging": "120W Fast Charging"
+      },
+      "img_link": "https://example.com/xiaomi13pro.jpg",
+      "product_link": "https://example.com/products/xiaomi13pro"
+    },
+    {
+      "product_name": "Samsung Galaxy A54",
+      "brand": "Samsung",
+      "about_product": "A great balance of features and affordability. Reliable performance for everyday tasks.",
+      "actual_price": 449,
+      "discounted_price": 399,
+      "discount_percentage": 11.14,
+      "rating": 4.3,
+      "rating_count": 765,
+      "features": {
+        "Display": "6.4-inch Super AMOLED",
+        "Processor": "Exynos 1380",
+        "Camera": "50MP Main, 12MP Ultrawide, 5MP Macro",
+        "Storage": "128GB"
+      },
+      "img_link": "https://example.com/galaxya54.jpg",
+      "product_link": "https://example.com/products/galaxya54"
+    },
+    {
+      "product_name": "Motorola Edge (2023)",
+      "brand": "Motorola",
+      "about_product": "A stylish phone with a smooth display and reliable battery life. Clean Android experience.",
+      "actual_price": 599,
+      "discounted_price": 499,
+      "discount_percentage": 16.69,
+      "rating": 4.2,
+      "rating_count": 654,
+      "features": {
+        "Display": "6.6-inch OLED",
+        "Processor": "Snapdragon 778G+",
+        "Camera": "50MP Main, 13MP Ultrawide, 2MP Depth",
+        "Storage": "256GB"
+      },
+      "img_link": "https://example.com/motorolaedge2023.jpg",
+      "product_link": "https://example.com/products/motorolaedge2023"
+    },
+    {
+      "product_name": "Nokia G400",
+      "brand": "Nokia",
+      "about_product": "A durable and affordable smartphone with a long-lasting battery. Reliable performance for daily use.",
+      "actual_price": 249,
+      "discounted_price": 199,
+      "discount_percentage": 20.08,
+      "rating": 3.9,
+      "rating_count": 432,
+      "features": {
+        "Display": "6.6-inch LCD",
+        "Processor": "Snapdragon 480",
+        "Camera": "48MP Main, 5MP Ultrawide, 2MP Depth",
+        "Storage": "64GB"
+      },
+      "img_link": "https://example.com/nokiag400.jpg",
+      "product_link": "https://example.com/products/nokiag400"
+    },
+    {
+      "product_name": "Google Pixel 7a",
+      "brand": "Google",
+      "about_product": "The 'a' series offers excellent value with the Google Tensor G2 chip and amazing camera capabilities.",
+      "actual_price": 499,
+      "discounted_price": 449,
+      "discount_percentage": 10.02,
+      "rating": 4.6,
+      "rating_count": 876,
+      "features": {
+        "Display": "6.1-inch OLED",
+        "Processor": "Google Tensor G2",
+        "Camera": "64MP Main, 13MP Ultrawide",
+        "Storage": "128GB",
+        "Water Resistance": "IP67"
+      },
+      "img_link": "https://example.com/pixel7a.jpg",
+      "product_link": "https://example.com/products/pixel7a"
+    },
+    {
+      "product_name": "Fairphone 5",
+      "brand": "Fairphone",
+      "about_product": "A sustainable and repairable smartphone built for longevity. Ethically sourced materials.",
+      "actual_price": 699,
+      "discounted_price": 649,
+      "discount_percentage": 7.15,
+      "rating": 4.1,
+      "rating_count": 250,
+      "features": {
+        "Display": "6.46-inch OLED",
+        "Processor": "Qualcomm QCM6490",
+        "Camera": "50MP Main, 50MP Ultrawide",
+        "Storage": "256GB",
+        "Modular Design": "Repairable Components"
+      },
+      "img_link": "https://example.com/fairphone5.jpg",
+      "product_link": "https://example.com/products/fairphone5"
+    }
+  ],
+  "Electronics > Laptops": [
+    {
+      "product_name": "Lenovo ThinkPad X1 Carbon Gen 11",
+      "brand": "Lenovo",
+      "about_product": "The ultimate business laptop, combining power, portability, and durability. Built for professionals on the go.",
+      "actual_price": 2199,
+      "discounted_price": 1759,
+      "discount_percentage": 0.2,
+      "rating": 4.7,
+      "rating_count": 345,
+      "features": {
+        "Processor": "Intel Core i7-1365U",
+        "RAM": "16GB LPDDR5",
+        "Storage": "512GB SSD",
+        "Display": "14\" WUXGA (1920x1200)"
+      },
+      "img_link": "https://example.com/lenovo_thinkpad_x1.jpg",
+      "product_link": "https://example.com/lenovo_thinkpad_x1"
+    },
+    {
+      "product_name": "Apple MacBook Air M2",
+      "brand": "Apple",
+      "about_product": "The incredibly thin and light MacBook Air, now supercharged with the M2 chip. Experience blazing-fast performance and stunning visuals.",
+      "actual_price": 1199,
+      "discounted_price": 1049,
+      "discount_percentage": 0.125,
+      "rating": 4.8,
+      "rating_count": 620,
+      "features": {
+        "Processor": "Apple M2 Chip",
+        "RAM": "8GB Unified Memory",
+        "Storage": "256GB SSD",
+        "Display": "13.6\" Liquid Retina"
+      },
+      "img_link": "https://example.com/macbook_air_m2.jpg",
+      "product_link": "https://example.com/macbook_air_m2"
+    },
+    {
+      "product_name": "Dell XPS 15",
+      "brand": "Dell",
+      "about_product": "The perfect balance of performance and portability. Ideal for content creators and power users.",
+      "actual_price": 2499,
+      "discounted_price": 2124,
+      "discount_percentage": 0.15,
+      "rating": 4.6,
+      "rating_count": 480,
+      "features": {
+        "Processor": "Intel Core i9-13900H",
+        "RAM": "32GB DDR5",
+        "Storage": "1TB SSD",
+        "Graphics": "NVIDIA GeForce RTX 4050",
+        "Display": "15.6\" OLED 3.5K"
+      },
+      "img_link": "https://example.com/dell_xps_15.jpg",
+      "product_link": "https://example.com/dell_xps_15"
+    },
+    {
+      "product_name": "HP Spectre x360 14",
+      "brand": "HP",
+      "about_product": "A premium 2-in-1 laptop with a stunning display and versatile design. Perfect for both work and play.",
+      "actual_price": 1649,
+      "discounted_price": 1399,
+      "discount_percentage": 0.15,
+      "rating": 4.5,
+      "rating_count": 290,
+      "features": {
+        "Processor": "Intel Core i7-1355U",
+        "RAM": "16GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "13.5\" OLED Touchscreen"
+      },
+      "img_link": "https://example.com/hp_spectre_x360.jpg",
+      "product_link": "https://example.com/hp_spectre_x360"
+    },
+    {
+      "product_name": "ASUS ROG Zephyrus G14",
+      "brand": "ASUS",
+      "about_product": "A powerful gaming laptop in a compact and stylish design. Dominate the competition on the go.",
+      "actual_price": 1799,
+      "discounted_price": 1529,
+      "discount_percentage": 0.15,
+      "rating": 4.7,
+      "rating_count": 510,
+      "features": {
+        "Processor": "AMD Ryzen 9 7940HS",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB SSD",
+        "Graphics": "NVIDIA GeForce RTX 4060",
+        "Display": "14\" QHD 165Hz"
+      },
+      "img_link": "https://example.com/asus_rog_zephyrus.jpg",
+      "product_link": "https://example.com/asus_rog_zephyrus"
+    },
+    {
+      "product_name": "Microsoft Surface Laptop 5",
+      "brand": "Microsoft",
+      "about_product": "Sleek and powerful laptop with a vibrant touchscreen display. Ideal for students and professionals.",
+      "actual_price": 1299,
+      "discounted_price": 1104,
+      "discount_percentage": 0.15,
+      "rating": 4.3,
+      "rating_count": 320,
+      "features": {
+        "Processor": "Intel Core i5-1235U",
+        "RAM": "8GB LPDDR5",
+        "Storage": "256GB SSD",
+        "Display": "13.5\" PixelSense Touchscreen"
+      },
+      "img_link": "https://example.com/surface_laptop_5.jpg",
+      "product_link": "https://example.com/surface_laptop_5"
+    },
+    {
+      "product_name": "Acer Chromebook Spin 713",
+      "brand": "Acer",
+      "about_product": "A versatile Chromebook with a stunning display and long battery life. Perfect for everyday tasks.",
+      "actual_price": 699,
+      "discounted_price": 594,
+      "discount_percentage": 0.15,
+      "rating": 4.4,
+      "rating_count": 250,
+      "features": {
+        "Processor": "Intel Core i5-1135G7",
+        "RAM": "8GB LPDDR4X",
+        "Storage": "256GB SSD",
+        "Display": "13.5\" VertiView 2K"
+      },
+      "img_link": "https://example.com/acer_chromebook_spin.jpg",
+      "product_link": "https://example.com/acer_chromebook_spin"
+    },
+    {
+      "product_name": "LG Gram 17",
+      "brand": "LG",
+      "about_product": "Incredibly lightweight 17-inch laptop with long battery life. Ideal for productivity on the go.",
+      "actual_price": 1749,
+      "discounted_price": 1486,
+      "discount_percentage": 0.15,
+      "rating": 4.2,
+      "rating_count": 180,
+      "features": {
+        "Processor": "Intel Core i7-1360P",
+        "RAM": "16GB LPDDR5",
+        "Storage": "1TB SSD",
+        "Display": "17\" WQXGA (2560x1600)"
+      },
+      "img_link": "https://example.com/lg_gram_17.jpg",
+      "product_link": "https://example.com/lg_gram_17"
+    },
+    {
+      "product_name": "Razer Blade 15 Advanced Model",
+      "brand": "Razer",
+      "about_product": "A high-performance gaming laptop with a sleek design and powerful components. Experience ultimate gaming immersion.",
+      "actual_price": 2799,
+      "discounted_price": 2379,
+      "discount_percentage": 0.15,
+      "rating": 4.9,
+      "rating_count": 700,
+      "features": {
+        "Processor": "Intel Core i9-13900H",
+        "RAM": "32GB DDR5",
+        "Storage": "1TB SSD",
+        "Graphics": "NVIDIA GeForce RTX 4070",
+        "Display": "15.6\" QHD 240Hz"
+      },
+      "img_link": "https://example.com/razer_blade_15.jpg",
+      "product_link": "https://example.com/razer_blade_15"
+    },
+    {
+      "product_name": "Samsung Galaxy Book3 Pro 360",
+      "brand": "Samsung",
+      "about_product": "A versatile 2-in-1 laptop with a stunning AMOLED display and S Pen support. Seamlessly switch between work and creativity.",
+      "actual_price": 1899,
+      "discounted_price": 1614,
+      "discount_percentage": 0.15,
+      "rating": 4.6,
+      "rating_count": 210,
+      "features": {
+        "Processor": "Intel Core i7-1360P",
+        "RAM": "16GB LPDDR5",
+        "Storage": "512GB SSD",
+        "Display": "16\" AMOLED Touchscreen",
+        "S Pen": "Included"
+      },
+      "img_link": "https://example.com/samsung_galaxy_book3.jpg",
+      "product_link": "https://example.com/samsung_galaxy_book3"
+    }
+  ],
+  "Electronics > Smartwatches": [
+    {
+      "product_name": "FitTrack Pro Smartwatch - Midnight Black",
+      "brand": "FitTrack",
+      "about_product": "Advanced fitness tracking with heart rate monitoring, sleep analysis, and GPS. Stay connected with notifications and calls.",
+      "actual_price": 249,
+      "discounted_price": 199,
+      "discount_percentage": 20.08,
+      "rating": 4.6,
+      "rating_count": 875,
+      "features": {
+        "Display": "1.4\" AMOLED",
+        "Battery Life": "7 days",
+        "Water Resistance": "5 ATM",
+        "GPS": "Built-in"
+      },
+      "img_link": "https://example.com/fittrack_pro_black.jpg",
+      "product_link": "https://example.com/fittrack_pro_black"
+    },
+    {
+      "product_name": "AuraLife Smartwatch - Rose Gold Edition",
+      "brand": "AuraLife",
+      "about_product": "Elegant smartwatch with health tracking features and customizable watch faces. Perfect for style and wellness.",
+      "actual_price": 299,
+      "discounted_price": 249,
+      "discount_percentage": 16.72,
+      "rating": 4.2,
+      "rating_count": 432,
+      "features": {
+        "Display": "1.2\" LCD",
+        "Battery Life": "5 days",
+        "Heart Rate Monitor": "Yes",
+        "Sleep Tracking": "Yes"
+      },
+      "img_link": "https://example.com/auralife_rosegold.jpg",
+      "product_link": "https://example.com/auralife_rosegold"
+    },
+    {
+      "product_name": "Apex Sport Smartwatch - Graphite",
+      "brand": "Apex",
+      "about_product": "Rugged smartwatch designed for outdoor activities. Features include a compass, altimeter, and long battery life.",
+      "actual_price": 349,
+      "discounted_price": 299,
+      "discount_percentage": 14.33,
+      "rating": 4.8,
+      "rating_count": 987,
+      "features": {
+        "Display": "1.3\" MIP",
+        "Battery Life": "14 days",
+        "Water Resistance": "10 ATM",
+        "GPS": "Built-in",
+        "Compass": "Yes"
+      },
+      "img_link": "https://example.com/apex_sport_graphite.jpg",
+      "product_link": "https://example.com/apex_sport_graphite"
+    },
+    {
+      "product_name": "Zenith Wellness Smartwatch - Silver",
+      "brand": "Zenith",
+      "about_product": "Advanced health monitoring smartwatch with ECG, blood pressure, and SpO2 tracking. Your personal health assistant.",
+      "actual_price": 399,
+      "discounted_price": 349,
+      "discount_percentage": 12.53,
+      "rating": 4.5,
+      "rating_count": 654,
+      "features": {
+        "Display": "1.35\" AMOLED",
+        "Battery Life": "6 days",
+        "ECG": "Yes",
+        "Blood Pressure": "Yes",
+        "SpO2": "Yes"
+      },
+      "img_link": "https://example.com/zenith_wellness_silver.jpg",
+      "product_link": "https://example.com/zenith_wellness_silver"
+    },
+    {
+      "product_name": "StreamLine Smartwatch - Space Gray",
+      "brand": "StreamLine",
+      "about_product": "Sleek and minimalist smartwatch with essential fitness tracking and notification features. Simple and effective.",
+      "actual_price": 149,
+      "discounted_price": 99,
+      "discount_percentage": 33.56,
+      "rating": 3.9,
+      "rating_count": 321,
+      "features": {
+        "Display": "1.1\" LCD",
+        "Battery Life": "4 days",
+        "Heart Rate Monitor": "Yes",
+        "Step Tracking": "Yes"
+      },
+      "img_link": "https://example.com/streamline_spacegray.jpg",
+      "product_link": "https://example.com/streamline_spacegray"
+    },
+    {
+      "product_name": "NovaTech X1 Smartwatch - Black/Red",
+      "brand": "NovaTech",
+      "about_product": "Budget-friendly smartwatch with basic fitness tracking and smart notifications. Great value for money.",
+      "actual_price": 99,
+      "discounted_price": 79,
+      "discount_percentage": 20.2,
+      "rating": 3.7,
+      "rating_count": 250,
+      "features": {
+        "Display": "1.3\" TFT",
+        "Battery Life": "3 days",
+        "Step Tracking": "Yes",
+        "Call Notifications": "Yes"
+      },
+      "img_link": "https://example.com/novatech_x1.jpg",
+      "product_link": "https://example.com/novatech_x1"
+    },
+    {
+      "product_name": "MotionX Pro - Deep Blue",
+      "brand": "MotionX",
+      "about_product": "Smartwatch designed for swimmers with swim tracking and water resistance up to 100 meters. Track your swims effortlessly.",
+      "actual_price": 279,
+      "discounted_price": 229,
+      "discount_percentage": 17.92,
+      "rating": 4.7,
+      "rating_count": 789,
+      "features": {
+        "Display": "1.2\" OLED",
+        "Battery Life": "7 days",
+        "Water Resistance": "10 ATM",
+        "Swim Tracking": "Yes",
+        "GPS": "Yes"
+      },
+      "img_link": "https://example.com/motionx_pro_blue.jpg",
+      "product_link": "https://example.com/motionx_pro_blue"
+    },
+    {
+      "product_name": "Echo Smartwatch - Sandstone",
+      "brand": "Echo",
+      "about_product": "Stylish smartwatch with focus on music playback, including offline Spotify support. Listen to your favorite tunes on the go.",
+      "actual_price": 229,
+      "discounted_price": 179,
+      "discount_percentage": 21.83,
+      "rating": 4.3,
+      "rating_count": 543,
+      "features": {
+        "Display": "1.28\" LCD",
+        "Battery Life": "5 days",
+        "Music Storage": "8GB",
+        "Offline Spotify": "Yes"
+      },
+      "img_link": "https://example.com/echo_sandstone.jpg",
+      "product_link": "https://example.com/echo_sandstone"
+    },
+    {
+      "product_name": "Veridian HealthTrack - Forest Green",
+      "brand": "Veridian",
+      "about_product": "Smartwatch for seniors with fall detection, emergency SOS, and easy-to-read display. Peace of mind for you and your loved ones.",
+      "actual_price": 179,
+      "discounted_price": 149,
+      "discount_percentage": 16.76,
+      "rating": 4.4,
+      "rating_count": 387,
+      "features": {
+        "Display": "1.4\" LCD",
+        "Battery Life": "3 days",
+        "Fall Detection": "Yes",
+        "SOS Button": "Yes",
+        "Large Text Mode": "Yes"
+      },
+      "img_link": "https://example.com/veridian_healthtrack.jpg",
+      "product_link": "https://example.com/veridian_healthtrack"
+    },
+    {
+      "product_name": "Polaris Hybrid Smartwatch - Silver/Brown Leather",
+      "brand": "Polaris",
+      "about_product": "Classic-looking hybrid smartwatch with hidden smart features like activity tracking and notifications. The best of both worlds.",
+      "actual_price": 199,
+      "discounted_price": 169,
+      "discount_percentage": 15.08,
+      "rating": 4.0,
+      "rating_count": 410,
+      "features": {
+        "Display": "Analog with hidden OLED",
+        "Battery Life": "14 days (watch) / 1 day (smart)",
+        "Activity Tracking": "Yes",
+        "Notifications": "Yes"
+      },
+      "img_link": "https://example.com/polaris_hybrid.jpg",
+      "product_link": "https://example.com/polaris_hybrid"
+    }
+  ],
+  "Fashion > Men’s T-Shirts": [
+    {
+      "product_name": "Men's Crew Neck Cotton T-Shirt",
+      "brand": "Goodthreads",
+      "about_product": "A classic everyday t-shirt made from soft, durable cotton. Perfect for layering or wearing on its own.",
+      "actual_price": 20,
+      "discounted_price": 16,
+      "discount_percentage": 0.2,
+      "rating": 4.6,
+      "rating_count": 1250,
+      "features": {
+        "material": "100% Cotton",
+        "neck_style": "Crew Neck",
+        "sleeve_length": "Short Sleeve",
+        "fit_type": "Regular"
+      },
+      "img_link": "https://example.com/images/goodthreads_crewneck.jpg",
+      "product_link": "https://example.com/products/goodthreads_crewneck"
+    },
+    {
+      "product_name": "Men's V-Neck Slim Fit T-Shirt",
+      "brand": "Amazon Essentials",
+      "about_product": "A slim-fit t-shirt with a V-neck design. Made with soft, lightweight material for all-day comfort.",
+      "actual_price": 18,
+      "discounted_price": 14,
+      "discount_percentage": 0.22,
+      "rating": 4.3,
+      "rating_count": 875,
+      "features": {
+        "material": "60% Cotton, 40% Polyester",
+        "neck_style": "V-Neck",
+        "sleeve_length": "Short Sleeve",
+        "fit_type": "Slim Fit"
+      },
+      "img_link": "https://example.com/images/amazon_vneck.jpg",
+      "product_link": "https://example.com/products/amazon_vneck"
+    },
+    {
+      "product_name": "Men's Graphic Print T-Shirt - Retro Gamer",
+      "brand": "Ripple Junction",
+      "about_product": "Show off your gaming passion with this retro-inspired graphic tee. A comfortable and stylish way to express yourself.",
+      "actual_price": 25,
+      "discounted_price": 20,
+      "discount_percentage": 0.2,
+      "rating": 4.8,
+      "rating_count": 620,
+      "features": {
+        "material": "100% Cotton",
+        "neck_style": "Crew Neck",
+        "sleeve_length": "Short Sleeve",
+        "print_type": "Screen Print",
+        "theme": "Gaming"
+      },
+      "img_link": "https://example.com/images/ripple_gamer.jpg",
+      "product_link": "https://example.com/products/ripple_gamer"
+    },
+    {
+      "product_name": "Men's Long Sleeve Henley T-Shirt",
+      "brand": "Hanes",
+      "about_product": "A classic Henley with a comfortable fit and durable construction. Ideal for cooler weather or layering.",
+      "actual_price": 22,
+      "discounted_price": 18,
+      "discount_percentage": 0.18,
+      "rating": 4.2,
+      "rating_count": 980,
+      "features": {
+        "material": "100% Cotton",
+        "neck_style": "Henley",
+        "sleeve_length": "Long Sleeve",
+        "fit_type": "Regular",
+        "closure_type": "Button"
+      },
+      "img_link": "https://example.com/images/hanes_henley.jpg",
+      "product_link": "https://example.com/products/hanes_henley"
+    },
+    {
+      "product_name": "Men's Dry-Fit Training T-Shirt",
+      "brand": "Nike",
+      "about_product": "Stay cool and dry during your workout with this moisture-wicking training tee. Designed for performance and comfort.",
+      "actual_price": 30,
+      "discounted_price": 24,
+      "discount_percentage": 0.2,
+      "rating": 4.7,
+      "rating_count": 1500,
+      "features": {
+        "material": "100% Polyester",
+        "neck_style": "Crew Neck",
+        "sleeve_length": "Short Sleeve",
+        "fit_type": "Athletic Fit",
+        "technology": "Dri-FIT"
+      },
+      "img_link": "https://example.com/images/nike_dryfit.jpg",
+      "product_link": "https://example.com/products/nike_dryfit"
+    },
+    {
+      "product_name": "Men's Linen Blend T-Shirt",
+      "brand": "Uniqlo",
+      "about_product": "A lightweight and breathable linen blend t-shirt. Perfect for staying cool and comfortable in warm weather.",
+      "actual_price": 28,
+      "discounted_price": 22,
+      "discount_percentage": 0.21,
+      "rating": 4.5,
+      "rating_count": 780,
+      "features": {
+        "material": "55% Linen, 45% Cotton",
+        "neck_style": "Crew Neck",
+        "sleeve_length": "Short Sleeve",
+        "fit_type": "Relaxed Fit"
+      },
+      "img_link": "https://example.com/images/uniqlo_linen.jpg",
+      "product_link": "https://example.com/products/uniqlo_linen"
+    },
+    {
+      "product_name": "Men's Pocket T-Shirt",
+      "brand": "Carhartt",
+      "about_product": "A durable and comfortable pocket t-shirt built to last. Features a chest pocket for added functionality.",
+      "actual_price": 24,
+      "discounted_price": 20,
+      "discount_percentage": 0.17,
+      "rating": 4.4,
+      "rating_count": 890,
+      "features": {
+        "material": "100% Cotton",
+        "neck_style": "Crew Neck",
+        "sleeve_length": "Short Sleeve",
+        "fit_type": "Loose Fit",
+        "pocket": "Chest Pocket"
+      },
+      "img_link": "https://example.com/images/carhartt_pocket.jpg",
+      "product_link": "https://example.com/products/carhartt_pocket"
+    },
+    {
+      "product_name": "Men's Premium Pima Cotton T-Shirt",
+      "brand": "Lands' End",
+      "about_product": "Crafted from soft and luxurious Pima cotton. Known for its exceptional comfort and durability.",
+      "actual_price": 35,
+      "discounted_price": 28,
+      "discount_percentage": 0.2,
+      "rating": 4.9,
+      "rating_count": 550,
+      "features": {
+        "material": "100% Pima Cotton",
+        "neck_style": "Crew Neck",
+        "sleeve_length": "Short Sleeve",
+        "fit_type": "Regular Fit"
+      },
+      "img_link": "https://example.com/images/landsend_pima.jpg",
+      "product_link": "https://example.com/products/landsend_pima"
+    },
+    {
+      "product_name": "Men's Muscle Fit T-Shirt",
+      "brand": "ASOS",
+      "about_product": "A muscle-fit t-shirt designed to accentuate your physique. Made with stretchy fabric for a comfortable and flattering fit.",
+      "actual_price": 22,
+      "discounted_price": 17,
+      "discount_percentage": 0.23,
+      "rating": 3.9,
+      "rating_count": 320,
+      "features": {
+        "material": "95% Cotton, 5% Elastane",
+        "neck_style": "Crew Neck",
+        "sleeve_length": "Short Sleeve",
+        "fit_type": "Muscle Fit"
+      },
+      "img_link": "https://example.com/images/asos_muscle.jpg",
+      "product_link": "https://example.com/products/asos_muscle"
+    },
+    {
+      "product_name": "Men's Tie-Dye T-Shirt",
+      "brand": "Urban Outfitters",
+      "about_product": "A unique and vibrant tie-dye t-shirt for a bold statement. Each piece is individually dyed, making it one-of-a-kind.",
+      "actual_price": 30,
+      "discounted_price": 25,
+      "discount_percentage": 0.17,
+      "rating": 4.1,
+      "rating_count": 400,
+      "features": {
+        "material": "100% Cotton",
+        "neck_style": "Crew Neck",
+        "sleeve_length": "Short Sleeve",
+        "fit_type": "Relaxed Fit",
+        "dye_type": "Tie-Dye"
+      },
+      "img_link": "https://example.com/images/urban_tiedye.jpg",
+      "product_link": "https://example.com/products/urban_tiedye"
+    }
+  ],
+  "Fashion > Women’s Dresses": [
+    {
+      "product_name": "Floral Print Midi Sundress",
+      "brand": "Summer Bloom",
+      "about_product": "A breezy and beautiful midi dress perfect for warm weather. Features a vibrant floral print and comfortable fit.",
+      "actual_price": 65,
+      "discounted_price": 45,
+      "discount_percentage": 0.31,
+      "rating": 4.6,
+      "rating_count": 235,
+      "features": {
+        "Material": "Rayon",
+        "Neckline": "Square Neck",
+        "Sleeve Length": "Sleeveless",
+        "Dress Length": "Midi"
+      },
+      "img_link": "https://example.com/images/floral_midi_dress.jpg",
+      "product_link": "https://example.com/products/floral_midi_dress"
+    },
+    {
+      "product_name": "Little Black Dress - Classic Sheath",
+      "brand": "Elegance Defined",
+      "about_product": "A timeless and sophisticated little black dress.  Perfect for any formal occasion or a night out.",
+      "actual_price": 99,
+      "discounted_price": 79,
+      "discount_percentage": 0.2,
+      "rating": 4.8,
+      "rating_count": 412,
+      "features": {
+        "Material": "Polyester Blend",
+        "Neckline": "Round Neck",
+        "Sleeve Length": "Short Sleeve",
+        "Dress Length": "Knee-Length",
+        "Occasion": "Formal"
+      },
+      "img_link": "https://example.com/images/little_black_dress.jpg",
+      "product_link": "https://example.com/products/little_black_dress"
+    },
+    {
+      "product_name": "Boho Maxi Dress with Embroidery",
+      "brand": "Free Spirit Designs",
+      "about_product": "Embrace your inner bohemian with this stunning maxi dress. Features intricate embroidery details and a flowing silhouette.",
+      "actual_price": 79,
+      "discounted_price": 65,
+      "discount_percentage": 0.18,
+      "rating": 4.3,
+      "rating_count": 188,
+      "features": {
+        "Material": "Cotton Blend",
+        "Neckline": "V-Neck",
+        "Sleeve Length": "3/4 Sleeve",
+        "Dress Length": "Maxi",
+        "Style": "Bohemian"
+      },
+      "img_link": "https://example.com/images/boho_maxi_dress.jpg",
+      "product_link": "https://example.com/products/boho_maxi_dress"
+    },
+    {
+      "product_name": "Bodycon Mini Dress - Emerald Green",
+      "brand": "Curve Appeal",
+      "about_product": "Make a statement in this figure-hugging bodycon mini dress. Featuring a vibrant emerald green color and a sleek design.",
+      "actual_price": 55,
+      "discounted_price": 40,
+      "discount_percentage": 0.27,
+      "rating": 3.9,
+      "rating_count": 95,
+      "features": {
+        "Material": "Spandex Blend",
+        "Neckline": "Scoop Neck",
+        "Sleeve Length": "Sleeveless",
+        "Dress Length": "Mini",
+        "Fit": "Bodycon"
+      },
+      "img_link": "https://example.com/images/bodycon_mini_dress.jpg",
+      "product_link": "https://example.com/products/bodycon_mini_dress"
+    },
+    {
+      "product_name": "Striped Shirtdress with Belt",
+      "brand": "Casual Chic",
+      "about_product": "A versatile and stylish shirtdress perfect for everyday wear. Features a classic striped pattern and a flattering belt.",
+      "actual_price": 69,
+      "discounted_price": 55,
+      "discount_percentage": 0.2,
+      "rating": 4.5,
+      "rating_count": 280,
+      "features": {
+        "Material": "Cotton",
+        "Neckline": "Collared",
+        "Sleeve Length": "Short Sleeve",
+        "Dress Length": "Knee-Length",
+        "Closure": "Button-Down"
+      },
+      "img_link": "https://example.com/images/striped_shirtdress.jpg",
+      "product_link": "https://example.com/products/striped_shirtdress"
+    },
+    {
+      "product_name": "Velvet Cocktail Dress - Burgundy",
+      "brand": "Luxury Nights",
+      "about_product": "Exude elegance in this luxurious velvet cocktail dress.  Rich burgundy color and sophisticated design.",
+      "actual_price": 120,
+      "discounted_price": 95,
+      "discount_percentage": 0.21,
+      "rating": 4.7,
+      "rating_count": 150,
+      "features": {
+        "Material": "Velvet",
+        "Neckline": "Off-Shoulder",
+        "Sleeve Length": "Sleeveless",
+        "Dress Length": "Knee-Length",
+        "Occasion": "Cocktail"
+      },
+      "img_link": "https://example.com/images/velvet_cocktail_dress.jpg",
+      "product_link": "https://example.com/products/velvet_cocktail_dress"
+    },
+    {
+      "product_name": "Denim Dress with Pockets",
+      "brand": "Urban Threads",
+      "about_product": "A cool and casual denim dress. Perfect for everyday wear with practical pockets and comfortable fit.",
+      "actual_price": 59,
+      "discounted_price": 49,
+      "discount_percentage": 0.17,
+      "rating": 4.1,
+      "rating_count": 120,
+      "features": {
+        "Material": "Denim",
+        "Neckline": "Round Neck",
+        "Sleeve Length": "Short Sleeve",
+        "Dress Length": "Knee-Length",
+        "Pockets": "Two Front Pockets"
+      },
+      "img_link": "https://example.com/images/denim_dress.jpg",
+      "product_link": "https://example.com/products/denim_dress"
+    },
+    {
+      "product_name": "Sequin Party Dress - Silver",
+      "brand": "Glamour Nights",
+      "about_product": "Shine all night long in this dazzling sequin party dress. Perfect for special occasions and celebrations.",
+      "actual_price": 110,
+      "discounted_price": 85,
+      "discount_percentage": 0.23,
+      "rating": 4.4,
+      "rating_count": 200,
+      "features": {
+        "Material": "Sequin Fabric",
+        "Neckline": "V-Neck",
+        "Sleeve Length": "Sleeveless",
+        "Dress Length": "Mini",
+        "Occasion": "Party"
+      },
+      "img_link": "https://example.com/images/sequin_party_dress.jpg",
+      "product_link": "https://example.com/products/sequin_party_dress"
+    },
+    {
+      "product_name": "Wrap Dress - Navy Blue",
+      "brand": "Figure Flatter",
+      "about_product": "A flattering and versatile wrap dress that accentuates your curves. Features a classic navy blue color.",
+      "actual_price": 75,
+      "discounted_price": 60,
+      "discount_percentage": 0.2,
+      "rating": 4.2,
+      "rating_count": 175,
+      "features": {
+        "Material": "Polyester",
+        "Neckline": "Wrap",
+        "Sleeve Length": "3/4 Sleeve",
+        "Dress Length": "Knee-Length",
+        "Fit": "Wrap"
+      },
+      "img_link": "https://example.com/images/wrap_dress.jpg",
+      "product_link": "https://example.com/products/wrap_dress"
+    },
+    {
+      "product_name": "Lace A-Line Dress",
+      "brand": "Timeless Grace",
+      "about_product": "An elegant lace A-line dress. Perfect for weddings or special occasions. Features a delicate lace overlay.",
+      "actual_price": 130,
+      "discounted_price": 100,
+      "discount_percentage": 0.23,
+      "rating": 4.9,
+      "rating_count": 300,
+      "features": {
+        "Material": "Lace",
+        "Neckline": "High Neck",
+        "Sleeve Length": "Long Sleeve",
+        "Dress Length": "Knee-Length",
+        "Style": "A-Line"
+      },
+      "img_link": "https://example.com/images/lace_a_line_dress.jpg",
+      "product_link": "https://example.com/products/lace_a_line_dress"
+    }
+  ],
+  "Fashion > Footwear": [
+    {
+      "product_name": "Classic Leather Chelsea Boots",
+      "brand": "Timberland",
+      "about_product": "Timeless Chelsea boots crafted from premium full-grain leather for lasting comfort and style. Perfect for everyday wear.",
+      "actual_price": 180,
+      "discounted_price": 144,
+      "discount_percentage": 0.2,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "Material": "Full-grain leather",
+        "Closure": "Pull-on",
+        "Sole": "Rubber",
+        "Heel_Height": "1 inch"
+      },
+      "img_link": "https://example.com/images/chelsea_boots.jpg",
+      "product_link": "https://example.com/products/chelsea_boots"
+    },
+    {
+      "product_name": "Women's Athletic Running Shoes",
+      "brand": "Nike",
+      "about_product": "Lightweight and breathable running shoes designed for optimal performance and comfort. Ideal for daily runs and workouts.",
+      "actual_price": 95,
+      "discounted_price": 76,
+      "discount_percentage": 0.2,
+      "rating": 4.8,
+      "rating_count": 680,
+      "features": {
+        "Upper_Material": "Breathable Mesh",
+        "Midsole": "React Foam",
+        "Outsole": "Durable Rubber",
+        "Activity": "Running"
+      },
+      "img_link": "https://example.com/images/running_shoes.jpg",
+      "product_link": "https://example.com/products/running_shoes"
+    },
+    {
+      "product_name": "Men's Suede Loafers",
+      "brand": "Cole Haan",
+      "about_product": "Sophisticated suede loafers offering a blend of style and comfort. Perfect for casual and semi-formal occasions.",
+      "actual_price": 120,
+      "discounted_price": 96,
+      "discount_percentage": 0.2,
+      "rating": 4.3,
+      "rating_count": 210,
+      "features": {
+        "Material": "Suede",
+        "Lining": "Leather",
+        "Sole": "Rubber",
+        "Style": "Slip-on"
+      },
+      "img_link": "https://example.com/images/suede_loafers.jpg",
+      "product_link": "https://example.com/products/suede_loafers"
+    },
+    {
+      "product_name": "Women's Strappy Sandals",
+      "brand": "Steve Madden",
+      "about_product": "Stylish strappy sandals perfect for summer outings and evening events. Adds a touch of elegance to any outfit.",
+      "actual_price": 60,
+      "discounted_price": 48,
+      "discount_percentage": 0.2,
+      "rating": 4.1,
+      "rating_count": 155,
+      "features": {
+        "Material": "Synthetic",
+        "Heel_Height": "3 inches",
+        "Closure": "Buckle",
+        "Style": "Dress Sandals"
+      },
+      "img_link": "https://example.com/images/strappy_sandals.jpg",
+      "product_link": "https://example.com/products/strappy_sandals"
+    },
+    {
+      "product_name": "Unisex Canvas Sneakers",
+      "brand": "Converse",
+      "about_product": "Classic canvas sneakers suitable for any gender and style. A versatile choice for everyday casual wear.",
+      "actual_price": 55,
+      "discounted_price": 44,
+      "discount_percentage": 0.2,
+      "rating": 4.7,
+      "rating_count": 800,
+      "features": {
+        "Material": "Canvas",
+        "Closure": "Lace-up",
+        "Sole": "Rubber",
+        "Style": "Casual"
+      },
+      "img_link": "https://example.com/images/canvas_sneakers.jpg",
+      "product_link": "https://example.com/products/canvas_sneakers"
+    },
+    {
+      "product_name": "Men's Leather Oxford Shoes",
+      "brand": "Clarks",
+      "about_product": "Classic leather Oxford shoes, handcrafted for a timeless and sophisticated look. Ideal for formal occasions and professional settings.",
+      "actual_price": 150,
+      "discounted_price": 120,
+      "discount_percentage": 0.2,
+      "rating": 4.5,
+      "rating_count": 280,
+      "features": {
+        "Material": "Leather",
+        "Closure": "Lace-up",
+        "Sole": "Leather",
+        "Style": "Formal"
+      },
+      "img_link": "https://example.com/images/oxford_shoes.jpg",
+      "product_link": "https://example.com/products/oxford_shoes"
+    },
+    {
+      "product_name": "Women's Ankle Boots",
+      "brand": "Dr. Martens",
+      "about_product": "Iconic ankle boots with a durable construction and edgy style. A statement piece for any wardrobe.",
+      "actual_price": 160,
+      "discounted_price": 128,
+      "discount_percentage": 0.2,
+      "rating": 4.9,
+      "rating_count": 550,
+      "features": {
+        "Material": "Leather",
+        "Closure": "Lace-up",
+        "Sole": "AirWair",
+        "Style": "Boot"
+      },
+      "img_link": "https://example.com/images/ankle_boots.jpg",
+      "product_link": "https://example.com/products/ankle_boots"
+    },
+    {
+      "product_name": "Men's Hiking Boots",
+      "brand": "Merrell",
+      "about_product": "Durable hiking boots providing excellent support and traction for outdoor adventures. Built to withstand rugged terrains.",
+      "actual_price": 130,
+      "discounted_price": 104,
+      "discount_percentage": 0.2,
+      "rating": 4.4,
+      "rating_count": 190,
+      "features": {
+        "Material": "Leather/Mesh",
+        "Waterproof": "Yes",
+        "Outsole": "Vibram",
+        "Activity": "Hiking"
+      },
+      "img_link": "https://example.com/images/hiking_boots.jpg",
+      "product_link": "https://example.com/products/hiking_boots"
+    },
+    {
+      "product_name": "Women's Ballet Flats",
+      "brand": "Tory Burch",
+      "about_product": "Elegant ballet flats designed for everyday comfort and style. Perfect for work or casual outings.",
+      "actual_price": 228,
+      "discounted_price": 182,
+      "discount_percentage": 0.2,
+      "rating": 4.2,
+      "rating_count": 120,
+      "features": {
+        "Material": "Leather",
+        "Sole": "Rubber",
+        "Style": "Slip-on",
+        "Toe Shape": "Round"
+      },
+      "img_link": "https://example.com/images/ballet_flats.jpg",
+      "product_link": "https://example.com/products/ballet_flats"
+    },
+    {
+      "product_name": "Men's Slides",
+      "brand": "Adidas",
+      "about_product": "Comfortable and durable slides for post-workout relaxation or casual wear. Features a contoured footbed for added support.",
+      "actual_price": 40,
+      "discounted_price": 32,
+      "discount_percentage": 0.2,
+      "rating": 4.0,
+      "rating_count": 450,
+      "features": {
+        "Material": "Synthetic",
+        "Footbed": "Contoured",
+        "Sole": "Rubber",
+        "Activity": "Casual"
+      },
+      "img_link": "https://example.com/images/mens_slides.jpg",
+      "product_link": "https://example.com/products/mens_slides"
+    }
+  ],
+  "Fashion > Watches": [
+    {
+      "product_name": "Classic Gold Plated Stainless Steel Watch",
+      "brand": "Aurelian Timepieces",
+      "about_product": "Elegant and timeless design, perfect for any occasion. Crafted with durable gold plated stainless steel.",
+      "actual_price": 250,
+      "discounted_price": 199,
+      "discount_percentage": 20.4,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "case_material": "Gold Plated Stainless Steel",
+        "strap_material": "Gold Plated Stainless Steel",
+        "movement": "Quartz",
+        "water_resistance": "30m"
+      },
+      "img_link": "https://example.com/images/gold_watch.jpg",
+      "product_link": "https://example.com/products/gold_watch"
+    },
+    {
+      "product_name": "Minimalist Black Leather Watch",
+      "brand": "Nordic Design Co.",
+      "about_product": "Sleek and understated, this watch features a minimalist design and genuine leather strap. Perfect for everyday wear.",
+      "actual_price": 120,
+      "discounted_price": 99,
+      "discount_percentage": 17.5,
+      "rating": 4.2,
+      "rating_count": 180,
+      "features": {
+        "case_material": "Stainless Steel",
+        "strap_material": "Genuine Leather",
+        "dial_color": "Black",
+        "movement": "Quartz",
+        "case_size": "40mm"
+      },
+      "img_link": "https://example.com/images/black_leather_watch.jpg",
+      "product_link": "https://example.com/products/black_leather_watch"
+    },
+    {
+      "product_name": "Women's Rose Gold Mesh Bracelet Watch",
+      "brand": "Elegance & Co.",
+      "about_product": "Stylish rose gold watch with a comfortable mesh bracelet. Adds a touch of elegance to any outfit.",
+      "actual_price": 180,
+      "discounted_price": 145,
+      "discount_percentage": 19.4,
+      "rating": 4.8,
+      "rating_count": 450,
+      "features": {
+        "case_material": "Rose Gold Plated Alloy",
+        "strap_material": "Rose Gold Plated Mesh",
+        "dial_color": "Rose Gold",
+        "movement": "Quartz"
+      },
+      "img_link": "https://example.com/images/rose_gold_watch.jpg",
+      "product_link": "https://example.com/products/rose_gold_watch"
+    },
+    {
+      "product_name": "Men's Chronograph Sport Watch",
+      "brand": "Active Gear",
+      "about_product": "Durable and functional chronograph watch for the active man. Water resistant and built to last.",
+      "actual_price": 350,
+      "discounted_price": 275,
+      "discount_percentage": 21.4,
+      "rating": 4.3,
+      "rating_count": 280,
+      "features": {
+        "case_material": "Stainless Steel",
+        "strap_material": "Silicone",
+        "movement": "Quartz Chronograph",
+        "water_resistance": "100m",
+        "display": "Analog/Digital"
+      },
+      "img_link": "https://example.com/images/sport_watch.jpg",
+      "product_link": "https://example.com/products/sport_watch"
+    },
+    {
+      "product_name": "Smart Watch with Fitness Tracking",
+      "brand": "TechLife",
+      "about_product": "Stay connected and track your fitness with this feature-rich smartwatch. Monitors heart rate, steps, and sleep.",
+      "actual_price": 299,
+      "discounted_price": 249,
+      "discount_percentage": 16.7,
+      "rating": 4.7,
+      "rating_count": 520,
+      "features": {
+        "screen_type": "AMOLED",
+        "battery_life": "7 days",
+        "compatibility": "iOS & Android",
+        "water_resistance": "50m",
+        "connectivity": "Bluetooth"
+      },
+      "img_link": "https://example.com/images/smart_watch.jpg",
+      "product_link": "https://example.com/products/smart_watch"
+    },
+    {
+      "product_name": "Vintage Style Automatic Watch",
+      "brand": "Heirloom Time",
+      "about_product": "A classic automatic watch with a vintage-inspired design. Showcases intricate movement through a display case back.",
+      "actual_price": 480,
+      "discounted_price": 400,
+      "discount_percentage": 16.7,
+      "rating": 4.5,
+      "rating_count": 150,
+      "features": {
+        "case_material": "Stainless Steel",
+        "strap_material": "Leather",
+        "movement": "Automatic",
+        "water_resistance": "50m",
+        "case_size": "42mm"
+      },
+      "img_link": "https://example.com/images/vintage_watch.jpg",
+      "product_link": "https://example.com/products/vintage_watch"
+    },
+    {
+      "product_name": "Digital Watch for Kids",
+      "brand": "FunTime",
+      "about_product": "Colorful and durable digital watch designed for kids. Easy to read display and comfortable strap.",
+      "actual_price": 45,
+      "discounted_price": 35,
+      "discount_percentage": 22.2,
+      "rating": 4.0,
+      "rating_count": 90,
+      "features": {
+        "strap_material": "Silicone",
+        "display_type": "Digital",
+        "water_resistance": "30m",
+        "functions": "Alarm, Stopwatch"
+      },
+      "img_link": "https://example.com/images/kids_watch.jpg",
+      "product_link": "https://example.com/products/kids_watch"
+    },
+    {
+      "product_name": "Luxury Diamond Accent Watch",
+      "brand": "Imperial Jewels",
+      "about_product": "Stunning watch adorned with genuine diamond accents. A statement piece for special occasions.",
+      "actual_price": 800,
+      "discounted_price": 650,
+      "discount_percentage": 18.8,
+      "rating": 4.9,
+      "rating_count": 110,
+      "features": {
+        "case_material": "Stainless Steel",
+        "strap_material": "Stainless Steel",
+        "diamond_type": "Genuine Diamonds",
+        "movement": "Quartz",
+        "water_resistance": "30m"
+      },
+      "img_link": "https://example.com/images/diamond_watch.jpg",
+      "product_link": "https://example.com/products/diamond_watch"
+    },
+    {
+      "product_name": "Unisex Wooden Watch",
+      "brand": "EcoTime",
+      "about_product": "Unique and eco-friendly wooden watch. Lightweight and comfortable to wear, made from sustainable materials.",
+      "actual_price": 150,
+      "discounted_price": 125,
+      "discount_percentage": 16.7,
+      "rating": 4.4,
+      "rating_count": 210,
+      "features": {
+        "case_material": "Bamboo Wood",
+        "strap_material": "Bamboo Wood",
+        "movement": "Quartz",
+        "water_resistance": "Splash Proof"
+      },
+      "img_link": "https://example.com/images/wooden_watch.jpg",
+      "product_link": "https://example.com/products/wooden_watch"
+    },
+    {
+      "product_name": "Pilot Watch with Luminous Dial",
+      "brand": "Aviator Gear",
+      "about_product": "Classic pilot watch with a highly visible luminous dial. Designed for readability and precision.",
+      "actual_price": 280,
+      "discounted_price": 230,
+      "discount_percentage": 17.9,
+      "rating": 4.1,
+      "rating_count": 165,
+      "features": {
+        "case_material": "Stainless Steel",
+        "strap_material": "Leather",
+        "movement": "Quartz",
+        "water_resistance": "50m",
+        "dial_color": "Black"
+      },
+      "img_link": "https://example.com/images/pilot_watch.jpg",
+      "product_link": "https://example.com/products/pilot_watch"
+    }
+  ],
+  "Home Appliances > Kitchen Appliances": [
+    {
+      "product_name": "SmartBlend Pro 1200 Blender",
+      "brand": "VitaBlend",
+      "about_product": "High-performance blender with pre-programmed settings for smoothies, soups, and more. Durable construction for long-lasting use.",
+      "actual_price": 199,
+      "discounted_price": 159,
+      "discount_percentage": 20.1,
+      "rating": 4.7,
+      "rating_count": 852,
+      "features": {
+        "power": "1200 Watts",
+        "capacity": "64 oz",
+        "settings": "5 Pre-programmed",
+        "material": "Tritan Plastic"
+      },
+      "img_link": "https://example.com/images/smartblend-pro.jpg",
+      "product_link": "https://example.com/products/smartblend-pro"
+    },
+    {
+      "product_name": "Digital Air Fryer Oven Combo",
+      "brand": "AirChef",
+      "about_product": "Versatile air fryer oven with multiple cooking functions. Enjoy crispy food with less oil.",
+      "actual_price": 149,
+      "discounted_price": 119,
+      "discount_percentage": 20.13,
+      "rating": 4.5,
+      "rating_count": 623,
+      "features": {
+        "capacity": "20 Quart",
+        "temperature_range": "200-400°F",
+        "functions": "Air Fry, Bake, Roast, Toast",
+        "timer": "60 Minutes"
+      },
+      "img_link": "https://example.com/images/air-fryer-oven.jpg",
+      "product_link": "https://example.com/products/air-fryer-oven"
+    },
+    {
+      "product_name": "Precision Digital Kitchen Scale",
+      "brand": "MeasureRight",
+      "about_product": "Accurate kitchen scale for precise ingredient measurements. Perfect for baking and cooking.",
+      "actual_price": 39,
+      "discounted_price": 29,
+      "discount_percentage": 25.64,
+      "rating": 4.8,
+      "rating_count": 987,
+      "features": {
+        "capacity": "11 lbs / 5 kg",
+        "accuracy": "0.05 oz / 1 g",
+        "units": "g, oz, lb, ml",
+        "tare_function": "Yes"
+      },
+      "img_link": "https://example.com/images/kitchen-scale.jpg",
+      "product_link": "https://example.com/products/kitchen-scale"
+    },
+    {
+      "product_name": "Programmable Coffee Maker with Grinder",
+      "brand": "BrewMaster",
+      "about_product": "Wake up to freshly ground and brewed coffee every morning. Easy to use and clean.",
+      "actual_price": 129,
+      "discounted_price": 99,
+      "discount_percentage": 23.26,
+      "rating": 4.3,
+      "rating_count": 412,
+      "features": {
+        "capacity": "12 Cups",
+        "grinder_type": "Burr Grinder",
+        "programmable": "24 Hour",
+        "filter_type": "Permanent"
+      },
+      "img_link": "https://example.com/images/coffee-maker.jpg",
+      "product_link": "https://example.com/products/coffee-maker"
+    },
+    {
+      "product_name": "Stainless Steel Electric Kettle",
+      "brand": "AquaHeat",
+      "about_product": "Quickly boils water for tea, coffee, and more. Sleek stainless steel design.",
+      "actual_price": 59,
+      "discounted_price": 49,
+      "discount_percentage": 16.95,
+      "rating": 4.6,
+      "rating_count": 735,
+      "features": {
+        "capacity": "1.7 Liter",
+        "material": "Stainless Steel",
+        "power": "1500 Watts",
+        "auto_shutoff": "Yes"
+      },
+      "img_link": "https://example.com/images/electric-kettle.jpg",
+      "product_link": "https://example.com/products/electric-kettle"
+    },
+    {
+      "product_name": "4-Slice Toaster with Wide Slots",
+      "brand": "ToastTime",
+      "about_product": "Toasts bread, bagels, and pastries to perfection. Extra-wide slots for thicker items.",
+      "actual_price": 49,
+      "discounted_price": 39,
+      "discount_percentage": 20.41,
+      "rating": 4.2,
+      "rating_count": 368,
+      "features": {
+        "slots": "4 Wide Slots",
+        "settings": "7 Shade Settings",
+        "functions": "Defrost, Reheat, Cancel",
+        "crumb_tray": "Removable"
+      },
+      "img_link": "https://example.com/images/4-slice-toaster.jpg",
+      "product_link": "https://example.com/products/4-slice-toaster"
+    },
+    {
+      "product_name": "Immersion Hand Blender Set",
+      "brand": "BlendQuick",
+      "about_product": "Powerful hand blender for smoothies, soups, and sauces. Includes multiple attachments.",
+      "actual_price": 79,
+      "discounted_price": 65,
+      "discount_percentage": 17.72,
+      "rating": 4.4,
+      "rating_count": 589,
+      "features": {
+        "power": "300 Watts",
+        "speed_settings": "Variable Speed",
+        "attachments": "Whisk, Chopper",
+        "material": "Stainless Steel"
+      },
+      "img_link": "https://example.com/images/hand-blender.jpg",
+      "product_link": "https://example.com/products/hand-blender"
+    },
+    {
+      "product_name": "Compact Food Processor",
+      "brand": "ChopItUp",
+      "about_product": "Ideal for chopping, slicing, and shredding ingredients quickly and efficiently.",
+      "actual_price": 99,
+      "discounted_price": 79,
+      "discount_percentage": 20.2,
+      "rating": 4.0,
+      "rating_count": 230,
+      "features": {
+        "capacity": "8 Cup",
+        "power": "450 Watts",
+        "pulse_control": "Yes",
+        "blade_material": "Stainless Steel"
+      },
+      "img_link": "https://example.com/images/food-processor.jpg",
+      "product_link": "https://example.com/products/food-processor"
+    },
+    {
+      "product_name": "Countertop Ice Maker Machine",
+      "brand": "IceAge",
+      "about_product": "Produces ice in minutes, perfect for parties and gatherings. Portable and easy to use.",
+      "actual_price": 249,
+      "discounted_price": 199,
+      "discount_percentage": 20.08,
+      "rating": 3.9,
+      "rating_count": 155,
+      "features": {
+        "ice_type": "Bullet Ice",
+        "ice_production": "26 lbs/day",
+        "water_reservoir": "2.2 Liter",
+        "cycle_time": "6-8 Minutes"
+      },
+      "img_link": "https://example.com/images/ice-maker.jpg",
+      "product_link": "https://example.com/products/ice-maker"
+    },
+    {
+      "product_name": "Slow Cooker with Digital Timer",
+      "brand": "CrockEase",
+      "about_product": "Cook delicious, tender meals with ease. Features a digital timer for precise cooking.",
+      "actual_price": 69,
+      "discounted_price": 55,
+      "discount_percentage": 20.29,
+      "rating": 4.7,
+      "rating_count": 478,
+      "features": {
+        "capacity": "6 Quart",
+        "settings": "Low, High, Warm",
+        "timer": "20 Hour",
+        "material": "Ceramic"
+      },
+      "img_link": "https://example.com/images/slow-cooker.jpg",
+      "product_link": "https://example.com/products/slow-cooker"
+    }
+  ],
+  "Home Appliances > Cleaning Devices": [
+    {
+      "product_name": "RoboClean X500 Robotic Vacuum",
+      "brand": "CleanTech Solutions",
+      "about_product": "Effortlessly clean your floors with this smart robotic vacuum. Schedule cleanings and enjoy hands-free operation.",
+      "actual_price": 399,
+      "discounted_price": 299,
+      "discount_percentage": 25.06,
+      "rating": 4.6,
+      "rating_count": 785,
+      "features": {
+        "Battery Life": "120 minutes",
+        "Dustbin Capacity": "600ml",
+        "Smart Navigation": "Laser-guided",
+        "App Control": "Yes"
+      },
+      "img_link": "https://example.com/robocleanx500.jpg",
+      "product_link": "https://example.com/products/robocleanx500"
+    },
+    {
+      "product_name": "SteamWave Pro Steam Mop",
+      "brand": "AquaClean",
+      "about_product": "Sanitize and deep clean your floors with the power of steam. Lightweight and easy to maneuver.",
+      "actual_price": 129,
+      "discounted_price": 99,
+      "discount_percentage": 23.26,
+      "rating": 4.2,
+      "rating_count": 320,
+      "features": {
+        "Heat-up Time": "30 seconds",
+        "Water Tank Capacity": "450ml",
+        "Cord Length": "20 feet",
+        "Steam Control": "Variable"
+      },
+      "img_link": "https://example.com/steamwavepro.jpg",
+      "product_link": "https://example.com/products/steamwavepro"
+    },
+    {
+      "product_name": "DustBuster Turbo Handheld Vacuum",
+      "brand": "Black+Decker",
+      "about_product": "A powerful and portable handheld vacuum for quick cleanups. Perfect for cars, stairs, and upholstery.",
+      "actual_price": 79,
+      "discounted_price": 69,
+      "discount_percentage": 12.66,
+      "rating": 4.8,
+      "rating_count": 1250,
+      "features": {
+        "Battery Voltage": "20V",
+        "Runtime": "15 minutes",
+        "Dustbowl Capacity": "500ml",
+        "Weight": "2.6 lbs"
+      },
+      "img_link": "https://example.com/dustbusterturbo.jpg",
+      "product_link": "https://example.com/products/dustbusterturbo"
+    },
+    {
+      "product_name": "PowerScrub Elite Carpet Cleaner",
+      "brand": "Hoover",
+      "about_product": "Deep clean carpets and upholstery with powerful suction and rotating brushes. Remove tough stains and odors.",
+      "actual_price": 249,
+      "discounted_price": 199,
+      "discount_percentage": 20.08,
+      "rating": 4.3,
+      "rating_count": 450,
+      "features": {
+        "Brush Type": "SpinScrub",
+        "Water Tank Capacity": "1 gallon",
+        "Hose Length": "8 feet",
+        "Dry Time": "Fast drying"
+      },
+      "img_link": "https://example.com/powerscrubelite.jpg",
+      "product_link": "https://example.com/products/powerscrubelite"
+    },
+    {
+      "product_name": "Cordless Water Flosser",
+      "brand": "WaterPulse",
+      "about_product": "Improve your oral hygiene with this cordless water flosser. Easy to use and perfect for travel.",
+      "actual_price": 59,
+      "discounted_price": 49,
+      "discount_percentage": 16.95,
+      "rating": 4.5,
+      "rating_count": 680,
+      "features": {
+        "Water Tank Capacity": "200ml",
+        "Pressure Settings": "3",
+        "Nozzle Types": "4",
+        "Battery Life": "2 weeks"
+      },
+      "img_link": "https://example.com/waterflosser.jpg",
+      "product_link": "https://example.com/products/waterflosser"
+    },
+    {
+      "product_name": "Air Purifier Pro with HEPA Filter",
+      "brand": "BreatheEasy",
+      "about_product": "Remove allergens, dust, and odors from your air with this advanced air purifier. Perfect for large rooms.",
+      "actual_price": 179,
+      "discounted_price": 149,
+      "discount_percentage": 16.76,
+      "rating": 4.7,
+      "rating_count": 920,
+      "features": {
+        "Coverage Area": "500 sq ft",
+        "Filter Type": "HEPA & Activated Carbon",
+        "Fan Speeds": "3",
+        "Noise Level": "24 dB"
+      },
+      "img_link": "https://example.com/airpurifierpro.jpg",
+      "product_link": "https://example.com/products/airpurifierpro"
+    },
+    {
+      "product_name": "UV Light Sanitizing Wand",
+      "brand": "GermFree",
+      "about_product": "Sanitize surfaces quickly and easily with this portable UV light wand. Kills germs and bacteria.",
+      "actual_price": 49,
+      "discounted_price": 39,
+      "discount_percentage": 20.41,
+      "rating": 4.1,
+      "rating_count": 280,
+      "features": {
+        "UV Wavelength": "254nm",
+        "Power Source": "USB Rechargeable",
+        "Timer": "30 seconds",
+        "Safety Lock": "Yes"
+      },
+      "img_link": "https://example.com/uvwand.jpg",
+      "product_link": "https://example.com/products/uvwand"
+    },
+    {
+      "product_name": "Window Wizard Robotic Window Cleaner",
+      "brand": "GlassGleam",
+      "about_product": "Let this robot clean your windows for you! Attaches to glass and navigates automatically.",
+      "actual_price": 299,
+      "discounted_price": 249,
+      "discount_percentage": 16.72,
+      "rating": 3.9,
+      "rating_count": 150,
+      "features": {
+        "Cleaning Modes": "3",
+        "Remote Control": "Yes",
+        "Fall Prevention": "Sensors",
+        "Surface Type": "Glass"
+      },
+      "img_link": "https://example.com/windowwizard.jpg",
+      "product_link": "https://example.com/products/windowwizard"
+    },
+    {
+      "product_name": "Ozone Generator Air Deodorizer",
+      "brand": "FreshAir",
+      "about_product": "Eliminate strong odors and freshen the air in your home with ozone technology.",
+      "actual_price": 99,
+      "discounted_price": 79,
+      "discount_percentage": 20.2,
+      "rating": 3.8,
+      "rating_count": 95,
+      "features": {
+        "Ozone Output": "400 mg/h",
+        "Timer Settings": "Variable",
+        "Coverage Area": "3000 sq ft",
+        "Safety Feature": "Delayed Start"
+      },
+      "img_link": "https://example.com/ozonegenerator.jpg",
+      "product_link": "https://example.com/products/ozonegenerator"
+    },
+    {
+      "product_name": "All-in-One Floor Scrubber and Polisher",
+      "brand": "ShineMaster",
+      "about_product": "Scrub, polish, and wax your floors with this versatile all-in-one machine. Suitable for various floor types.",
+      "actual_price": 449,
+      "discounted_price": 349,
+      "discount_percentage": 22.27,
+      "rating": 4.4,
+      "rating_count": 210,
+      "features": {
+        "Brush Types": "Scrub, Polish, Wax",
+        "Speed Settings": "Variable",
+        "Pad Diameter": "13 inches",
+        "Cord Length": "25 feet"
+      },
+      "img_link": "https://example.com/floorscrubber.jpg",
+      "product_link": "https://example.com/products/floorscrubber"
+    }
+  ],
+  "Home Decor > Lighting": [
+    {
+      "product_name": "Vintage Edison Bulb Pendant Light",
+      "brand": "Nostalgia Lights",
+      "about_product": "Add a touch of vintage charm to any room with this classic Edison bulb pendant light. Perfect for kitchens, dining rooms, and living spaces.",
+      "actual_price": 75,
+      "discounted_price": 60,
+      "discount_percentage": 0.2,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "bulb_type": "E26 Edison",
+        "material": "Metal, Glass",
+        "adjustable_height": "Yes",
+        "style": "Vintage"
+      },
+      "img_link": "https://example.com/images/edison_pendant.jpg",
+      "product_link": "https://example.com/products/edison_pendant"
+    },
+    {
+      "product_name": "Modern LED Floor Lamp with Touch Control",
+      "brand": "LuminoTech",
+      "about_product": "Sleek and energy-efficient LED floor lamp with adjustable brightness and color temperature. Perfect for reading or creating ambient lighting.",
+      "actual_price": 120,
+      "discounted_price": 95,
+      "discount_percentage": 0.21,
+      "rating": 4.8,
+      "rating_count": 450,
+      "features": {
+        "light_source": "LED",
+        "brightness_levels": "3",
+        "color_temperature": "Adjustable",
+        "control_method": "Touch"
+      },
+      "img_link": "https://example.com/images/led_floor_lamp.jpg",
+      "product_link": "https://example.com/products/led_floor_lamp"
+    },
+    {
+      "product_name": "Crystal Chandelier - 6 Light",
+      "brand": "Elegant Lighting",
+      "about_product": "A stunning crystal chandelier that adds a touch of glamour to any space. Perfect for dining rooms and entryways.",
+      "actual_price": 350,
+      "discounted_price": 280,
+      "discount_percentage": 0.2,
+      "rating": 4.3,
+      "rating_count": 180,
+      "features": {
+        "material": "Crystal, Metal",
+        "number_of_lights": "6",
+        "style": "Traditional",
+        "room_type": "Dining Room, Living Room"
+      },
+      "img_link": "https://example.com/images/crystal_chandelier.jpg",
+      "product_link": "https://example.com/products/crystal_chandelier"
+    },
+    {
+      "product_name": "Adjustable Desk Lamp with Wireless Charger",
+      "brand": "PowerLite",
+      "about_product": "A modern desk lamp with adjustable brightness and a built-in wireless charger for your phone. Perfect for any workspace.",
+      "actual_price": 65,
+      "discounted_price": 55,
+      "discount_percentage": 0.15,
+      "rating": 4.7,
+      "rating_count": 290,
+      "features": {
+        "light_source": "LED",
+        "wireless_charging": "Yes",
+        "adjustable_brightness": "Yes",
+        "style": "Modern"
+      },
+      "img_link": "https://example.com/images/desk_lamp_charger.jpg",
+      "product_link": "https://example.com/products/desk_lamp_charger"
+    },
+    {
+      "product_name": "String Lights - Warm White, 25ft",
+      "brand": "Festive Lights Co.",
+      "about_product": "Create a warm and inviting atmosphere with these classic string lights. Perfect for patios, gardens, and bedrooms.",
+      "actual_price": 25,
+      "discounted_price": 20,
+      "discount_percentage": 0.2,
+      "rating": 4.5,
+      "rating_count": 600,
+      "features": {
+        "light_color": "Warm White",
+        "length": "25 ft",
+        "bulb_type": "Incandescent",
+        "indoor_outdoor": "Both"
+      },
+      "img_link": "https://example.com/images/string_lights.jpg",
+      "product_link": "https://example.com/products/string_lights"
+    },
+    {
+      "product_name": "Himalayan Salt Lamp",
+      "brand": "Natural Glow",
+      "about_product": "A natural Himalayan salt lamp that purifies the air and creates a calming atmosphere. Each lamp is unique.",
+      "actual_price": 40,
+      "discounted_price": 35,
+      "discount_percentage": 0.13,
+      "rating": 4.2,
+      "rating_count": 210,
+      "features": {
+        "material": "Himalayan Salt",
+        "bulb_type": "Incandescent",
+        "dimmable": "Yes",
+        "weight": "5-7 lbs"
+      },
+      "img_link": "https://example.com/images/salt_lamp.jpg",
+      "product_link": "https://example.com/products/salt_lamp"
+    },
+    {
+      "product_name": "Flush Mount LED Ceiling Light",
+      "brand": "BrightHome",
+      "about_product": "A sleek and modern flush mount ceiling light that provides bright, energy-efficient lighting. Ideal for hallways and bedrooms.",
+      "actual_price": 50,
+      "discounted_price": 40,
+      "discount_percentage": 0.2,
+      "rating": 4.4,
+      "rating_count": 150,
+      "features": {
+        "light_source": "LED",
+        "diameter": "12 inches",
+        "wattage": "15W",
+        "shape": "Round"
+      },
+      "img_link": "https://example.com/images/flush_mount_light.jpg",
+      "product_link": "https://example.com/products/flush_mount_light"
+    },
+    {
+      "product_name": "Industrial Style Wall Sconce",
+      "brand": "Urban Ambiance",
+      "about_product": "Add an industrial touch to your home with this stylish wall sconce. Perfect for living rooms, bedrooms, or hallways.",
+      "actual_price": 80,
+      "discounted_price": 68,
+      "discount_percentage": 0.15,
+      "rating": 4.1,
+      "rating_count": 95,
+      "features": {
+        "material": "Metal",
+        "bulb_type": "E26 (not included)",
+        "style": "Industrial",
+        "installation": "Hardwired"
+      },
+      "img_link": "https://example.com/images/wall_sconce.jpg",
+      "product_link": "https://example.com/products/wall_sconce"
+    },
+    {
+      "product_name": "Smart Table Lamp - Color Changing",
+      "brand": "TechGlow",
+      "about_product": "Control the color and brightness of this smart table lamp with your smartphone. Create the perfect ambiance for any occasion.",
+      "actual_price": 90,
+      "discounted_price": 75,
+      "discount_percentage": 0.17,
+      "rating": 4.9,
+      "rating_count": 512,
+      "features": {
+        "light_source": "LED",
+        "smart_home_compatible": "Yes (Alexa, Google Assistant)",
+        "color_options": "16 Million",
+        "control_method": "App, Voice"
+      },
+      "img_link": "https://example.com/images/smart_table_lamp.jpg",
+      "product_link": "https://example.com/products/smart_table_lamp"
+    },
+    {
+      "product_name": "Tiffany Style Stained Glass Table Lamp",
+      "brand": "Aurora Lights",
+      "about_product": "A beautiful Tiffany style table lamp with intricate stained glass design. A classic addition to any room.",
+      "actual_price": 150,
+      "discounted_price": 120,
+      "discount_percentage": 0.2,
+      "rating": 3.9,
+      "rating_count": 110,
+      "features": {
+        "material": "Stained Glass, Metal",
+        "bulb_type": "Incandescent",
+        "style": "Tiffany",
+        "switch_type": "Pull Chain"
+      },
+      "img_link": "https://example.com/images/tiffany_lamp.jpg",
+      "product_link": "https://example.com/products/tiffany_lamp"
+    }
+  ],
+  "Home Decor > Furniture": [
+    {
+      "product_name": "Mid-Century Modern Accent Chair",
+      "brand": "Noble House",
+      "about_product": "Stylish and comfortable accent chair perfect for living rooms or bedrooms. Features a sleek design and durable construction.",
+      "actual_price": 299,
+      "discounted_price": 249,
+      "discount_percentage": 0.17,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "Material": "Velvet upholstery, solid wood frame",
+        "Dimensions": "30\"W x 32\"D x 34\"H",
+        "Weight Capacity": "250 lbs",
+        "Assembly Required": "Yes"
+      },
+      "img_link": "https://example.com/images/accent_chair.jpg",
+      "product_link": "https://example.com/products/accent_chair"
+    },
+    {
+      "product_name": "Industrial Style Coffee Table",
+      "brand": "UrbanFurn",
+      "about_product": "A rustic and durable coffee table with a metal frame and wood top. Adds an industrial touch to any living space.",
+      "actual_price": 175,
+      "discounted_price": 140,
+      "discount_percentage": 0.2,
+      "rating": 4.2,
+      "rating_count": 180,
+      "features": {
+        "Material": "Metal frame, solid wood top",
+        "Dimensions": "48\"L x 24\"W x 18\"H",
+        "Style": "Industrial",
+        "Assembly Required": "Yes"
+      },
+      "img_link": "https://example.com/images/coffee_table.jpg",
+      "product_link": "https://example.com/products/coffee_table"
+    },
+    {
+      "product_name": "Queen Size Platform Bed Frame",
+      "brand": "Sleep Haven",
+      "about_product": "A modern and sturdy platform bed frame. Eliminates the need for a box spring.",
+      "actual_price": 350,
+      "discounted_price": 315,
+      "discount_percentage": 0.1,
+      "rating": 4.8,
+      "rating_count": 450,
+      "features": {
+        "Material": "Wood, metal slats",
+        "Size": "Queen",
+        "Weight Capacity": "500 lbs",
+        "Assembly Required": "Yes",
+        "Headboard Included": "No"
+      },
+      "img_link": "https://example.com/images/platform_bed.jpg",
+      "product_link": "https://example.com/products/platform_bed"
+    },
+    {
+      "product_name": "Farmhouse Style TV Stand",
+      "brand": "Rustic Charm",
+      "about_product": "A charming TV stand with a farmhouse-inspired design. Provides ample storage for media consoles and accessories.",
+      "actual_price": 425,
+      "discounted_price": 382,
+      "discount_percentage": 0.1,
+      "rating": 4.5,
+      "rating_count": 275,
+      "features": {
+        "Material": "Solid wood, metal hardware",
+        "Dimensions": "60\"L x 16\"W x 24\"H",
+        "Max TV Size": "65 inches",
+        "Cable Management": "Yes",
+        "Assembly Required": "Yes"
+      },
+      "img_link": "https://example.com/images/tv_stand.jpg",
+      "product_link": "https://example.com/products/tv_stand"
+    },
+    {
+      "product_name": "Ergonomic Office Chair",
+      "brand": "Comfort Pro",
+      "about_product": "A comfortable and supportive office chair designed for long hours of work. Features adjustable height and lumbar support.",
+      "actual_price": 220,
+      "discounted_price": 198,
+      "discount_percentage": 0.1,
+      "rating": 4.7,
+      "rating_count": 390,
+      "features": {
+        "Material": "Mesh back, fabric seat",
+        "Adjustability": "Height, lumbar support, armrests",
+        "Weight Capacity": "275 lbs",
+        "Assembly Required": "Yes"
+      },
+      "img_link": "https://example.com/images/office_chair.jpg",
+      "product_link": "https://example.com/products/office_chair"
+    },
+    {
+      "product_name": "Modern Bookcase with Glass Doors",
+      "brand": "Elegant Home",
+      "about_product": "A stylish bookcase with glass doors to protect your books and display your favorite decor items.  Adds a touch of sophistication to any room.",
+      "actual_price": 380,
+      "discounted_price": 342,
+      "discount_percentage": 0.1,
+      "rating": 4.3,
+      "rating_count": 155,
+      "features": {
+        "Material": "Wood, glass",
+        "Dimensions": "36\"W x 12\"D x 72\"H",
+        "Number of Shelves": "5",
+        "Assembly Required": "Yes"
+      },
+      "img_link": "https://example.com/images/bookcase.jpg",
+      "product_link": "https://example.com/products/bookcase"
+    },
+    {
+      "product_name": "Folding Dining Table",
+      "brand": "Space Solutions",
+      "about_product": "A compact and versatile folding dining table, perfect for small spaces and apartments.  Easily expands for entertaining.",
+      "actual_price": 199,
+      "discounted_price": 179,
+      "discount_percentage": 0.1,
+      "rating": 4.0,
+      "rating_count": 98,
+      "features": {
+        "Material": "Wood, metal hinges",
+        "Dimensions (folded)": "36\"L x 18\"W x 30\"H",
+        "Dimensions (extended)": "36\"L x 36\"W x 30\"H",
+        "Seating Capacity": "2-4",
+        "Assembly Required": "Minor"
+      },
+      "img_link": "https://example.com/images/folding_table.jpg",
+      "product_link": "https://example.com/products/folding_table"
+    },
+    {
+      "product_name": "Vanity Makeup Table with LED Mirror",
+      "brand": "Glamour Station",
+      "about_product": "A chic and functional vanity makeup table with a built-in LED mirror.  Provides ample storage for cosmetics and accessories.",
+      "actual_price": 279,
+      "discounted_price": 251,
+      "discount_percentage": 0.1,
+      "rating": 4.9,
+      "rating_count": 512,
+      "features": {
+        "Material": "Engineered wood, glass mirror",
+        "Dimensions": "40\"W x 18\"D x 55\"H",
+        "Mirror Features": "LED lighting, touch control",
+        "Storage": "Drawers and shelves",
+        "Assembly Required": "Yes"
+      },
+      "img_link": "https://example.com/images/vanity_table.jpg",
+      "product_link": "https://example.com/products/vanity_table"
+    },
+    {
+      "product_name": "Sofa Bed with Storage",
+      "brand": "Comfort Sleeper",
+      "about_product": "A versatile sofa bed that easily converts into a comfortable bed. Features convenient storage space underneath.",
+      "actual_price": 599,
+      "discounted_price": 539,
+      "discount_percentage": 0.1,
+      "rating": 3.9,
+      "rating_count": 220,
+      "features": {
+        "Material": "Fabric upholstery, metal frame",
+        "Dimensions (sofa)": "78\"W x 36\"D x 32\"H",
+        "Dimensions (bed)": "78\"L x 54\"W x 16\"H",
+        "Storage Compartment": "Underneath the seat",
+        "Assembly Required": "Yes"
+      },
+      "img_link": "https://example.com/images/sofa_bed.jpg",
+      "product_link": "https://example.com/products/sofa_bed"
+    },
+    {
+      "product_name": "Entryway Bench with Shoe Storage",
+      "brand": "Organized Living",
+      "about_product": "A stylish and practical entryway bench with shoe storage. Keeps your entryway tidy and organized.",
+      "actual_price": 149,
+      "discounted_price": 134,
+      "discount_percentage": 0.1,
+      "rating": 4.4,
+      "rating_count": 175,
+      "features": {
+        "Material": "Wood, fabric cushion",
+        "Dimensions": "36\"W x 12\"D x 18\"H",
+        "Shoe Capacity": "6-8 pairs",
+        "Weight Capacity": "250 lbs",
+        "Assembly Required": "Yes"
+      },
+      "img_link": "https://example.com/images/entryway_bench.jpg",
+      "product_link": "https://example.com/products/entryway_bench"
+    }
+  ],
+  "Beauty & Personal Care > Skincare": [
+    {
+      "product_name": "Hydrating Hyaluronic Acid Serum",
+      "brand": "Glowify Skin",
+      "about_product": "A lightweight serum that deeply hydrates and plumps the skin, reducing the appearance of fine lines and wrinkles. Suitable for all skin types.",
+      "actual_price": 35,
+      "discounted_price": 28,
+      "discount_percentage": 20.0,
+      "rating": 4.6,
+      "rating_count": 753,
+      "features": {
+        "skin_type": "All",
+        "key_ingredient": "Hyaluronic Acid",
+        "texture": "Serum",
+        "size": "1 fl oz"
+      },
+      "img_link": "https://example.com/images/hyaluronic_serum.jpg",
+      "product_link": "https://example.com/products/hyaluronic_serum"
+    },
+    {
+      "product_name": "Vitamin C Brightening Moisturizer",
+      "brand": "Citrus Glow",
+      "about_product": "A daily moisturizer infused with Vitamin C to brighten the skin, even out skin tone, and protect against environmental damage.",
+      "actual_price": 42,
+      "discounted_price": 33,
+      "discount_percentage": 21.4,
+      "rating": 4.3,
+      "rating_count": 420,
+      "features": {
+        "skin_type": "Normal to Oily",
+        "key_ingredient": "Vitamin C",
+        "benefits": "Brightening, Antioxidant",
+        "spf": "SPF 20"
+      },
+      "img_link": "https://example.com/images/vitamin_c_moisturizer.jpg",
+      "product_link": "https://example.com/products/vitamin_c_moisturizer"
+    },
+    {
+      "product_name": "Gentle Foaming Facial Cleanser",
+      "brand": "Soothing Botanicals",
+      "about_product": "A gentle and effective cleanser that removes impurities and makeup without stripping the skin's natural oils. Ideal for sensitive skin.",
+      "actual_price": 22,
+      "discounted_price": 18,
+      "discount_percentage": 18.2,
+      "rating": 4.8,
+      "rating_count": 987,
+      "features": {
+        "skin_type": "Sensitive",
+        "texture": "Foam",
+        "fragrance": "Unscented",
+        "size": "6 fl oz"
+      },
+      "img_link": "https://example.com/images/gentle_cleanser.jpg",
+      "product_link": "https://example.com/products/gentle_cleanser"
+    },
+    {
+      "product_name": "Retinol Anti-Aging Night Cream",
+      "brand": "Youth Renew",
+      "about_product": "A powerful night cream formulated with retinol to reduce wrinkles, improve skin texture, and promote cell turnover. Use with caution, start slow.",
+      "actual_price": 55,
+      "discounted_price": 44,
+      "discount_percentage": 20.0,
+      "rating": 4.1,
+      "rating_count": 312,
+      "features": {
+        "skin_type": "Mature",
+        "key_ingredient": "Retinol",
+        "concerns": "Wrinkles, Fine Lines",
+        "strength": "0.3%"
+      },
+      "img_link": "https://example.com/images/retinol_cream.jpg",
+      "product_link": "https://example.com/products/retinol_cream"
+    },
+    {
+      "product_name": "Tea Tree Oil Spot Treatment",
+      "brand": "Clear Skin Solutions",
+      "about_product": "A targeted spot treatment with tea tree oil to help reduce the appearance of blemishes and prevent future breakouts.",
+      "actual_price": 18,
+      "discounted_price": 15,
+      "discount_percentage": 16.7,
+      "rating": 4.5,
+      "rating_count": 645,
+      "features": {
+        "skin_type": "Acne-Prone",
+        "key_ingredient": "Tea Tree Oil",
+        "application": "Spot Treatment",
+        "size": "0.5 fl oz"
+      },
+      "img_link": "https://example.com/images/tea_tree_spot_treatment.jpg",
+      "product_link": "https://example.com/products/tea_tree_spot_treatment"
+    },
+    {
+      "product_name": "Mineral Sunscreen SPF 50",
+      "brand": "SunGuard",
+      "about_product": "Broad spectrum protection using zinc oxide and titanium dioxide. Gentle formula suitable for sensitive skin.",
+      "actual_price": 28,
+      "discounted_price": 25,
+      "discount_percentage": 10.7,
+      "rating": 4.9,
+      "rating_count": 1200,
+      "features": {
+        "skin_type": "All",
+        "spf": "SPF 50",
+        "key_ingredient": "Zinc Oxide",
+        "water_resistant": "80 minutes"
+      },
+      "img_link": "https://example.com/images/mineral_sunscreen.jpg",
+      "product_link": "https://example.com/products/mineral_sunscreen"
+    },
+    {
+      "product_name": "Exfoliating Glycolic Acid Toner",
+      "brand": "Refine & Renew",
+      "about_product": "Gently exfoliates and brightens skin with glycolic acid, revealing smoother and more radiant complexion.",
+      "actual_price": 30,
+      "discounted_price": 24,
+      "discount_percentage": 20.0,
+      "rating": 4.0,
+      "rating_count": 250,
+      "features": {
+        "skin_type": "Normal to Oily",
+        "key_ingredient": "Glycolic Acid",
+        "strength": "7%",
+        "size": "4 fl oz"
+      },
+      "img_link": "https://example.com/images/glycolic_acid_toner.jpg",
+      "product_link": "https://example.com/products/glycolic_acid_toner"
+    },
+    {
+      "product_name": "Overnight Hydration Mask",
+      "brand": "Deep Moisture",
+      "about_product": "Intense overnight mask for dry and dehydrated skin. Wake up to soft, supple, and glowing skin.",
+      "actual_price": 40,
+      "discounted_price": 35,
+      "discount_percentage": 12.5,
+      "rating": 4.7,
+      "rating_count": 500,
+      "features": {
+        "skin_type": "Dry",
+        "key_ingredient": "Shea Butter",
+        "texture": "Cream",
+        "usage": "Overnight"
+      },
+      "img_link": "https://example.com/images/overnight_mask.jpg",
+      "product_link": "https://example.com/products/overnight_mask"
+    },
+    {
+      "product_name": "Eye Cream with Peptides",
+      "brand": "Visionary Beauty",
+      "about_product": "Reduces dark circles, puffiness, and fine lines around the delicate eye area. Improves skin elasticity.",
+      "actual_price": 45,
+      "discounted_price": 40,
+      "discount_percentage": 11.1,
+      "rating": 3.9,
+      "rating_count": 180,
+      "features": {
+        "skin_type": "All",
+        "key_ingredient": "Peptides",
+        "concerns": "Dark Circles, Puffiness",
+        "size": "0.5 fl oz"
+      },
+      "img_link": "https://example.com/images/eye_cream.jpg",
+      "product_link": "https://example.com/products/eye_cream"
+    },
+    {
+      "product_name": "Soothing Aloe Vera Gel",
+      "brand": "Nature's Relief",
+      "about_product": "Pure aloe vera gel soothes and hydrates irritated or sunburnt skin. Great for post-sun care.",
+      "actual_price": 15,
+      "discounted_price": 12,
+      "discount_percentage": 20.0,
+      "rating": 4.4,
+      "rating_count": 800,
+      "features": {
+        "skin_type": "All",
+        "key_ingredient": "Aloe Vera",
+        "benefits": "Soothing, Hydrating",
+        "size": "8 fl oz"
+      },
+      "img_link": "https://example.com/images/aloe_vera_gel.jpg",
+      "product_link": "https://example.com/products/aloe_vera_gel"
+    }
+  ],
+  "Beauty & Personal Care > Haircare": [
+    {
+      "product_name": "Argan Oil Hydrating Shampoo",
+      "brand": "Moroccan Magic",
+      "about_product": "Gently cleanses and hydrates dry, damaged hair, leaving it soft and shiny. Infused with pure Argan Oil.",
+      "actual_price": 25,
+      "discounted_price": 20,
+      "discount_percentage": 20.0,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "hair_type": "Dry, Damaged",
+        "key_ingredient": "Argan Oil",
+        "sulfate_free": "Yes",
+        "size": "16 fl oz"
+      },
+      "img_link": "https://example.com/argan_shampoo.jpg",
+      "product_link": "https://example.com/product/argan-shampoo"
+    },
+    {
+      "product_name": "Volumizing Conditioner for Fine Hair",
+      "brand": "Bumble and Bumble",
+      "about_product": "Lightweight conditioner that adds body and fullness without weighing hair down. Detangles and smoothes.",
+      "actual_price": 32,
+      "discounted_price": 28,
+      "discount_percentage": 12.5,
+      "rating": 4.2,
+      "rating_count": 188,
+      "features": {
+        "hair_type": "Fine, Thin",
+        "benefit": "Volumizing",
+        "silicone_free": "No",
+        "size": "8 fl oz"
+      },
+      "img_link": "https://example.com/volumizing_conditioner.jpg",
+      "product_link": "https://example.com/product/volumizing-conditioner"
+    },
+    {
+      "product_name": "Anti-Frizz Hair Serum",
+      "brand": "Living Proof",
+      "about_product": "Controls frizz and flyaways for a sleek, polished look. Provides humidity protection.",
+      "actual_price": 29,
+      "discounted_price": 25,
+      "discount_percentage": 13.79,
+      "rating": 4.8,
+      "rating_count": 450,
+      "features": {
+        "hair_type": "All",
+        "benefit": "Anti-Frizz",
+        "hold": "Light",
+        "size": "4 fl oz"
+      },
+      "img_link": "https://example.com/anti_frizz_serum.jpg",
+      "product_link": "https://example.com/product/anti-frizz-serum"
+    },
+    {
+      "product_name": "Scalp Care Tea Tree Shampoo",
+      "brand": "Paul Mitchell",
+      "about_product": "Invigorating shampoo that cleanses and soothes the scalp. Helps relieve dryness and itchiness.",
+      "actual_price": 18,
+      "discounted_price": 15,
+      "discount_percentage": 16.67,
+      "rating": 4.5,
+      "rating_count": 275,
+      "features": {
+        "hair_type": "All",
+        "key_ingredient": "Tea Tree Oil",
+        "benefit": "Scalp Care",
+        "size": "10.14 fl oz"
+      },
+      "img_link": "https://example.com/tea_tree_shampoo.jpg",
+      "product_link": "https://example.com/product/tea-tree-shampoo"
+    },
+    {
+      "product_name": "Curl Defining Cream",
+      "brand": "DevaCurl",
+      "about_product": "Enhances and defines natural curls and waves. Provides long-lasting hold and hydration.",
+      "actual_price": 27,
+      "discounted_price": 22,
+      "discount_percentage": 18.52,
+      "rating": 4.7,
+      "rating_count": 380,
+      "features": {
+        "hair_type": "Curly, Wavy",
+        "benefit": "Curl Definition",
+        "hold": "Medium",
+        "size": "8 oz"
+      },
+      "img_link": "https://example.com/curl_defining_cream.jpg",
+      "product_link": "https://example.com/product/curl-defining-cream"
+    },
+    {
+      "product_name": "Purple Shampoo for Blonde Hair",
+      "brand": "L'Oreal Paris",
+      "about_product": "Neutralizes brassy tones in blonde, bleached, and highlighted hair. Keeps color vibrant.",
+      "actual_price": 12,
+      "discounted_price": 10,
+      "discount_percentage": 16.67,
+      "rating": 4.3,
+      "rating_count": 620,
+      "features": {
+        "hair_type": "Blonde, Highlighted",
+        "benefit": "Color Correction",
+        "sulfate_free": "No",
+        "size": "6.7 fl oz"
+      },
+      "img_link": "https://example.com/purple_shampoo.jpg",
+      "product_link": "https://example.com/product/purple-shampoo"
+    },
+    {
+      "product_name": "Leave-In Conditioner Spray",
+      "brand": "Shea Moisture",
+      "about_product": "Detangles, moisturizes, and protects hair from heat damage. Infused with shea butter and coconut oil.",
+      "actual_price": 15,
+      "discounted_price": 13,
+      "discount_percentage": 13.33,
+      "rating": 4.4,
+      "rating_count": 210,
+      "features": {
+        "hair_type": "All",
+        "key_ingredient": "Shea Butter, Coconut Oil",
+        "benefit": "Detangling, Hydration",
+        "size": "8 fl oz"
+      },
+      "img_link": "https://example.com/leave_in_conditioner.jpg",
+      "product_link": "https://example.com/product/leave-in-conditioner"
+    },
+    {
+      "product_name": "Hair Mask for Damaged Hair",
+      "brand": "Olaplex",
+      "about_product": "Repairs and strengthens damaged hair bonds, leaving hair stronger and healthier. Reduces breakage.",
+      "actual_price": 30,
+      "discounted_price": 27,
+      "discount_percentage": 10.0,
+      "rating": 4.9,
+      "rating_count": 550,
+      "features": {
+        "hair_type": "Damaged",
+        "benefit": "Repairing",
+        "time_to_use": "10 minutes",
+        "size": "3.3 fl oz"
+      },
+      "img_link": "https://example.com/hair_mask.jpg",
+      "product_link": "https://example.com/product/hair-mask"
+    },
+    {
+      "product_name": "Dry Shampoo",
+      "brand": "Batiste",
+      "about_product": "Instantly cleanses and refreshes hair without water. Absorbs oil and adds volume.",
+      "actual_price": 9,
+      "discounted_price": 8,
+      "discount_percentage": 11.11,
+      "rating": 3.9,
+      "rating_count": 800,
+      "features": {
+        "hair_type": "All",
+        "benefit": "Oil Absorption",
+        "scent": "Original",
+        "size": "6.73 oz"
+      },
+      "img_link": "https://example.com/dry_shampoo.jpg",
+      "product_link": "https://example.com/product/dry-shampoo"
+    },
+    {
+      "product_name": "Hair Growth Oil",
+      "brand": "Mielle Organics",
+      "about_product": "Promotes hair growth and strengthens hair follicles. Enriched with rosemary and mint.",
+      "actual_price": 16,
+      "discounted_price": 14,
+      "discount_percentage": 12.5,
+      "rating": 4.0,
+      "rating_count": 400,
+      "features": {
+        "hair_type": "All",
+        "key_ingredient": "Rosemary, Mint",
+        "benefit": "Hair Growth",
+        "size": "2 fl oz"
+      },
+      "img_link": "https://example.com/hair_growth_oil.jpg",
+      "product_link": "https://example.com/product/hair-growth-oil"
+    }
+  ],
+  "Beauty & Personal Care > Makeup": [
+    {
+      "product_name": "Luminous Silk Foundation",
+      "brand": "Giorgio Armani",
+      "about_product": "An award-winning, oil-free foundation for a flawless, glowing complexion. Provides buildable medium coverage.",
+      "actual_price": 69,
+      "discounted_price": 62,
+      "discount_percentage": 10.14,
+      "rating": 4.7,
+      "rating_count": 2350,
+      "features": {
+        "Coverage": "Medium",
+        "Finish": "Natural, Luminous",
+        "Skin Type": "All",
+        "Shade Range": "Extensive"
+      },
+      "img_link": "https://example.com/armani_luminous_silk.jpg",
+      "product_link": "https://example.com/product/armani_luminous_silk"
+    },
+    {
+      "product_name": "Modern Renaissance Eyeshadow Palette",
+      "brand": "Anastasia Beverly Hills",
+      "about_product": "A cult-favorite eyeshadow palette featuring 14 highly pigmented shades. Perfect for creating a variety of looks from natural to dramatic.",
+      "actual_price": 45,
+      "discounted_price": 40,
+      "discount_percentage": 11.11,
+      "rating": 4.8,
+      "rating_count": 3800,
+      "features": {
+        "Finish": "Matte, Metallic",
+        "Palette Size": "14 Shades",
+        "Pigmentation": "High",
+        "Blendability": "Excellent"
+      },
+      "img_link": "https://example.com/abh_modern_renaissance.jpg",
+      "product_link": "https://example.com/product/abh_modern_renaissance"
+    },
+    {
+      "product_name": "Better Than Sex Mascara",
+      "brand": "Too Faced",
+      "about_product": "A volumizing mascara that delivers dramatic lashes with intense black pigment. Features an hourglass-shaped brush.",
+      "actual_price": 28,
+      "discounted_price": 25,
+      "discount_percentage": 10.71,
+      "rating": 4.6,
+      "rating_count": 1900,
+      "features": {
+        "Volume": "High",
+        "Lengthening": "Moderate",
+        "Smudge-Proof": "Yes",
+        "Color": "Black"
+      },
+      "img_link": "https://example.com/toofaced_betterthansex.jpg",
+      "product_link": "https://example.com/product/toofaced_betterthansex"
+    },
+    {
+      "product_name": "Stay All Day Liquid Lipstick",
+      "brand": "Stila",
+      "about_product": "A long-wearing, matte liquid lipstick that provides full coverage color. Comfortable and weightless on the lips.",
+      "actual_price": 22,
+      "discounted_price": 19,
+      "discount_percentage": 13.64,
+      "rating": 4.3,
+      "rating_count": 1250,
+      "features": {
+        "Finish": "Matte",
+        "Longevity": "Long-Wearing",
+        "Coverage": "Full",
+        "Transfer-Proof": "Yes"
+      },
+      "img_link": "https://example.com/stila_stayallday.jpg",
+      "product_link": "https://example.com/product/stila_stayallday"
+    },
+    {
+      "product_name": "Pro Filt'r Instant Retouch Concealer",
+      "brand": "Fenty Beauty",
+      "about_product": "A creamy, full-coverage concealer that instantly brightens and blurs imperfections. Available in a wide range of shades.",
+      "actual_price": 26,
+      "discounted_price": 23,
+      "discount_percentage": 11.54,
+      "rating": 4.5,
+      "rating_count": 2100,
+      "features": {
+        "Coverage": "Full",
+        "Finish": "Matte",
+        "Crease-Proof": "Yes",
+        "Shade Range": "Extensive"
+      },
+      "img_link": "https://example.com/fenty_profiltr.jpg",
+      "product_link": "https://example.com/product/fenty_profiltr"
+    },
+    {
+      "product_name": "NARS Blush - Orgasm",
+      "brand": "NARS",
+      "about_product": "An iconic peachy pink blush with a golden shimmer. Adds a natural-looking flush of color to the cheeks.",
+      "actual_price": 34,
+      "discounted_price": 30,
+      "discount_percentage": 11.76,
+      "rating": 4.9,
+      "rating_count": 4500,
+      "features": {
+        "Finish": "Shimmer",
+        "Pigmentation": "High",
+        "Blendability": "Excellent",
+        "Color": "Peachy Pink"
+      },
+      "img_link": "https://example.com/nars_orgasm.jpg",
+      "product_link": "https://example.com/product/nars_orgasm"
+    },
+    {
+      "product_name": "Brow Wiz Mechanical Brow Pencil",
+      "brand": "Anastasia Beverly Hills",
+      "about_product": "An ultra-slim brow pencil that creates natural-looking, hair-like strokes. Perfect for filling in sparse areas.",
+      "actual_price": 25,
+      "discounted_price": 22,
+      "discount_percentage": 12.0,
+      "rating": 4.4,
+      "rating_count": 1600,
+      "features": {
+        "Type": "Pencil",
+        "Finish": "Natural",
+        "Waterproof": "Yes",
+        "Precision": "High"
+      },
+      "img_link": "https://example.com/abh_browwiz.jpg",
+      "product_link": "https://example.com/product/abh_browwiz"
+    },
+    {
+      "product_name": "Infallible 24H Fresh Wear Foundation",
+      "brand": "L'Oreal Paris",
+      "about_product": "A lightweight, breathable foundation that provides medium-to-full coverage for up to 24 hours. Transfer-resistant and waterproof.",
+      "actual_price": 16,
+      "discounted_price": 14,
+      "discount_percentage": 12.5,
+      "rating": 4.2,
+      "rating_count": 950,
+      "features": {
+        "Coverage": "Medium to Full",
+        "Finish": "Natural",
+        "Longevity": "24 Hours",
+        "Waterproof": "Yes"
+      },
+      "img_link": "https://example.com/loreal_infallible.jpg",
+      "product_link": "https://example.com/product/loreal_infallible"
+    },
+    {
+      "product_name": "The POREfessional Face Primer",
+      "brand": "Benefit Cosmetics",
+      "about_product": "A lightweight, silky primer that minimizes the appearance of pores and fine lines. Creates a smooth canvas for makeup application.",
+      "actual_price": 32,
+      "discounted_price": 28,
+      "discount_percentage": 12.5,
+      "rating": 4.6,
+      "rating_count": 2700,
+      "features": {
+        "Skin Type": "All",
+        "Finish": "Smooth",
+        "Pore Minimizing": "Yes",
+        "Texture": "Silky"
+      },
+      "img_link": "https://example.com/benefit_porefessional.jpg",
+      "product_link": "https://example.com/product/benefit_porefessional"
+    },
+    {
+      "product_name": "Matte Revolution Lipstick - Pillow Talk",
+      "brand": "Charlotte Tilbury",
+      "about_product": "A hydrating, matte lipstick in a universally flattering nude-pink shade. Creates fuller, wider-looking lips.",
+      "actual_price": 34,
+      "discounted_price": 31,
+      "discount_percentage": 8.82,
+      "rating": 4.9,
+      "rating_count": 3100,
+      "features": {
+        "Finish": "Matte",
+        "Color": "Nude Pink",
+        "Hydration": "High",
+        "Long-Wearing": "Yes"
+      },
+      "img_link": "https://example.com/charlottetilbury_pillowtalk.jpg",
+      "product_link": "https://example.com/product/charlottetilbury_pillowtalk"
+    }
+  ],
+  "Books > Self-help": [
+    {
+      "product_name": "Unleash Your Inner Potential: A Practical Guide to Self-Discovery",
+      "brand": "Inner Growth Press",
+      "about_product": "Discover your hidden talents and unlock your full potential with this transformative guide. Learn practical techniques for self-improvement and personal growth.",
+      "actual_price": 25,
+      "discounted_price": 19,
+      "discount_percentage": 0.24,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "format": "Paperback",
+        "pages": "240",
+        "author": "Dr. Emily Carter",
+        "ISBN": "978-1234567890"
+      },
+      "img_link": "https://example.com/images/unleash_potential.jpg",
+      "product_link": "https://example.com/products/unleash_potential"
+    },
+    {
+      "product_name": "The Power of Habit: Why We Do What We Do in Life and Business",
+      "brand": "Random House",
+      "about_product": "Explore the science of habits and learn how to break bad ones and create good ones. A powerful tool for personal and professional success.",
+      "actual_price": 18,
+      "discounted_price": 15,
+      "discount_percentage": 0.17,
+      "rating": 4.8,
+      "rating_count": 879,
+      "features": {
+        "format": "Hardcover",
+        "author": "Charles Duhigg",
+        "topics": "Habit formation, Productivity, Psychology"
+      },
+      "img_link": "https://example.com/images/power_of_habit.jpg",
+      "product_link": "https://example.com/products/power_of_habit"
+    },
+    {
+      "product_name": "Mindfulness for Beginners: A Practical Guide to Finding Peace in a Frantic World",
+      "brand": "Piatkus",
+      "about_product": "Learn the basics of mindfulness meditation and discover how to reduce stress and improve your well-being. Simple exercises for everyday life.",
+      "actual_price": 15,
+      "discounted_price": 12,
+      "discount_percentage": 0.2,
+      "rating": 4.5,
+      "rating_count": 450,
+      "features": {
+        "format": "Paperback",
+        "author": "Jon Kabat-Zinn",
+        "meditation_type": "Mindfulness"
+      },
+      "img_link": "https://example.com/images/mindfulness_beginners.jpg",
+      "product_link": "https://example.com/products/mindfulness_beginners"
+    },
+    {
+      "product_name": "Declutter Your Mind: How to Stop Worrying, Relieve Anxiety, and Eliminate Negative Thinking",
+      "brand": "S.J. Scott",
+      "about_product": "Gain control over your thoughts and create a more positive and peaceful mindset. Practical strategies for managing anxiety and stress.",
+      "actual_price": 14,
+      "discounted_price": 11,
+      "discount_percentage": 0.21,
+      "rating": 4.2,
+      "rating_count": 280,
+      "features": {
+        "format": "Kindle Edition",
+        "author": "S.J. Scott",
+        "category": "Anxiety Relief",
+        "pages": "160"
+      },
+      "img_link": "https://example.com/images/declutter_mind.jpg",
+      "product_link": "https://example.com/products/declutter_mind"
+    },
+    {
+      "product_name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+      "brand": "Simon & Schuster",
+      "about_product": "A timeless guide to personal and interpersonal effectiveness. Learn the 7 habits that will transform your life and relationships.",
+      "actual_price": 22,
+      "discounted_price": 18,
+      "discount_percentage": 0.18,
+      "rating": 4.9,
+      "rating_count": 1200,
+      "features": {
+        "format": "Hardcover",
+        "author": "Stephen Covey",
+        "topics": "Leadership, Productivity, Relationships",
+        "edition": "Anniversary Edition"
+      },
+      "img_link": "https://example.com/images/7_habits.jpg",
+      "product_link": "https://example.com/products/7_habits"
+    },
+    {
+      "product_name": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+      "brand": "Avery",
+      "about_product": "Embrace vulnerability and unleash your true potential. Brené Brown's groundbreaking insights on courage, vulnerability, shame, and worthiness.",
+      "actual_price": 28,
+      "discounted_price": 23,
+      "discount_percentage": 0.18,
+      "rating": 4.7,
+      "rating_count": 650,
+      "features": {
+        "format": "Paperback",
+        "author": "Brené Brown",
+        "topics": "Vulnerability, Courage, Self-Esteem"
+      },
+      "img_link": "https://example.com/images/daring_greatly.jpg",
+      "product_link": "https://example.com/products/daring_greatly"
+    },
+    {
+      "product_name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "brand": "Avery",
+      "about_product": "A comprehensive guide to building good habits and breaking bad ones, based on proven scientific research. Improve 1% every day.",
+      "actual_price": 20,
+      "discounted_price": 17,
+      "discount_percentage": 0.15,
+      "rating": 4.9,
+      "rating_count": 980,
+      "features": {
+        "format": "Hardcover",
+        "author": "James Clear",
+        "topics": "Habit Formation, Productivity, Self-Improvement"
+      },
+      "img_link": "https://example.com/images/atomic_habits.jpg",
+      "product_link": "https://example.com/products/atomic_habits"
+    },
+    {
+      "product_name": "Emotional Intelligence 2.0",
+      "brand": "TalentSmart",
+      "about_product": "Boost your emotional intelligence and improve your relationships and career. Learn the four core skills of emotional intelligence.",
+      "actual_price": 17,
+      "discounted_price": 14,
+      "discount_percentage": 0.18,
+      "rating": 4.4,
+      "rating_count": 390,
+      "features": {
+        "format": "Paperback",
+        "author": "Travis Bradberry",
+        "topics": "Emotional Intelligence, Social Skills, Communication"
+      },
+      "img_link": "https://example.com/images/emotional_intelligence.jpg",
+      "product_link": "https://example.com/products/emotional_intelligence"
+    },
+    {
+      "product_name": "Your Erroneous Zones",
+      "brand": "HarperCollins",
+      "about_product": "Take control of your life and eliminate self-defeating behavior. A classic guide to self-reliance and personal responsibility.",
+      "actual_price": 16,
+      "discounted_price": 13,
+      "discount_percentage": 0.19,
+      "rating": 4.3,
+      "rating_count": 520,
+      "features": {
+        "format": "Paperback",
+        "author": "Wayne Dyer",
+        "topics": "Self-Esteem, Personal Growth, Positive Thinking"
+      },
+      "img_link": "https://example.com/images/erroneous_zones.jpg",
+      "product_link": "https://example.com/products/erroneous_zones"
+    },
+    {
+      "product_name": "The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now",
+      "brand": "Twelve",
+      "about_product": "Navigate your twenties with confidence and purpose. A guide to making the most of this crucial decade of your life.",
+      "actual_price": 19,
+      "discounted_price": 16,
+      "discount_percentage": 0.16,
+      "rating": 4.1,
+      "rating_count": 210,
+      "features": {
+        "format": "Paperback",
+        "author": "Meg Jay",
+        "topics": "Career, Relationships, Identity"
+      },
+      "img_link": "https://example.com/images/defining_decade.jpg",
+      "product_link": "https://example.com/products/defining_decade"
+    }
+  ],
+  "Books > Fiction": [
+    {
+      "product_name": "The Whispering Pines: A Mystery Novel",
+      "brand": "Blackwood Publishing",
+      "about_product": "A gripping tale of secrets and suspense unfolds in the remote town of Whispering Pines. Follow Detective Miller as he unravels a web of deceit and hidden motives.",
+      "actual_price": 25,
+      "discounted_price": 20,
+      "discount_percentage": 20.0,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "genre": "Mystery",
+        "format": "Paperback",
+        "pages": "352",
+        "author": "Sarah Blackwood"
+      },
+      "img_link": "https://example.com/images/whispering_pines.jpg",
+      "product_link": "https://example.com/products/whispering_pines"
+    },
+    {
+      "product_name": "Echoes of Yesterday: A Historical Romance",
+      "brand": "Regency Reads",
+      "about_product": "Journey back to 19th-century England in this enchanting historical romance. Lady Annelise finds her heart torn between duty and forbidden love.",
+      "actual_price": 18,
+      "discounted_price": 15,
+      "discount_percentage": 16.67,
+      "rating": 4.2,
+      "rating_count": 188,
+      "features": {
+        "genre": "Historical Romance",
+        "format": "Hardcover",
+        "era": "Victorian",
+        "author": "Jane Austen Jr."
+      },
+      "img_link": "https://example.com/images/echoes_yesterday.jpg",
+      "product_link": "https://example.com/products/echoes_yesterday"
+    },
+    {
+      "product_name": "The Last Starfarer: A Sci-Fi Adventure",
+      "brand": "Cosmic Horizons",
+      "about_product": "Embark on an interstellar adventure with Captain Eva Rostova as she navigates treacherous galaxies and battles alien forces to save humanity.",
+      "actual_price": 30,
+      "discounted_price": 24,
+      "discount_percentage": 20.0,
+      "rating": 4.8,
+      "rating_count": 450,
+      "features": {
+        "genre": "Science Fiction",
+        "format": "Kindle Edition",
+        "series": "Starfarer Chronicles Book 1",
+        "author": "Alina Vance"
+      },
+      "img_link": "https://example.com/images/last_starfarer.jpg",
+      "product_link": "https://example.com/products/last_starfarer"
+    },
+    {
+      "product_name": "City of Lost Dreams: A Urban Fantasy",
+      "brand": "Midnight Ink",
+      "about_product": "Magic lurks beneath the surface of the modern city. Follow Maya as she discovers her hidden powers and battles dark forces threatening to consume the world.",
+      "actual_price": 22,
+      "discounted_price": 18,
+      "discount_percentage": 18.18,
+      "rating": 4.1,
+      "rating_count": 275,
+      "features": {
+        "genre": "Urban Fantasy",
+        "format": "Paperback",
+        "setting": "New York City",
+        "author": "Ethan Cole"
+      },
+      "img_link": "https://example.com/images/city_lost_dreams.jpg",
+      "product_link": "https://example.com/products/city_lost_dreams"
+    },
+    {
+      "product_name": "The Silent Forest: A Thriller",
+      "brand": "Pine Ridge Press",
+      "about_product": "A chilling thriller where a group of friends on a camping trip find themselves stalked by an unknown predator. Will they survive the night?",
+      "actual_price": 28,
+      "discounted_price": 25,
+      "discount_percentage": 10.71,
+      "rating": 3.9,
+      "rating_count": 150,
+      "features": {
+        "genre": "Thriller",
+        "format": "Hardcover",
+        "pages": "400",
+        "author": "David Bell"
+      },
+      "img_link": "https://example.com/images/silent_forest.jpg",
+      "product_link": "https://example.com/products/silent_forest"
+    },
+    {
+      "product_name": "Beneath Azure Skies",
+      "brand": "Celestial Stories",
+      "about_product": "A heartwarming story of family, friendship, and finding yourself in the idyllic landscapes of the Mediterranean coast.",
+      "actual_price": 16,
+      "discounted_price": 13,
+      "discount_percentage": 18.75,
+      "rating": 4.7,
+      "rating_count": 380,
+      "features": {
+        "genre": "Contemporary",
+        "format": "Paperback",
+        "author": "Lena Moreau",
+        "setting": "Greece"
+      },
+      "img_link": "https://example.com/images/azure_skies.jpg",
+      "product_link": "https://example.com/products/azure_skies"
+    },
+    {
+      "product_name": "Kingdom of Ash and Bone (The Elven Lords Book 2)",
+      "brand": "Mythic Realms",
+      "about_product": "The epic saga continues! War looms over the elven kingdoms as alliances are tested and dark forces rise. Perfect for fans of high fantasy.",
+      "actual_price": 32,
+      "discounted_price": 28,
+      "discount_percentage": 12.5,
+      "rating": 4.5,
+      "rating_count": 510,
+      "features": {
+        "genre": "Fantasy",
+        "format": "Hardcover",
+        "series": "The Elven Lords",
+        "author": "Elowen Frost"
+      },
+      "img_link": "https://example.com/images/kingdom_ash.jpg",
+      "product_link": "https://example.com/products/kingdom_ash"
+    },
+    {
+      "product_name": "The Quantum Paradox",
+      "brand": "Future Press",
+      "about_product": "A mind-bending science fiction novel exploring the implications of quantum mechanics and parallel universes. Are our choices truly our own?",
+      "actual_price": 27,
+      "discounted_price": 22,
+      "discount_percentage": 18.52,
+      "rating": 4.3,
+      "rating_count": 290,
+      "features": {
+        "genre": "Science Fiction",
+        "format": "Paperback",
+        "themes": "Time Travel, Quantum Physics",
+        "author": "Dr. Aris Thorne"
+      },
+      "img_link": "https://example.com/images/quantum_paradox.jpg",
+      "product_link": "https://example.com/products/quantum_paradox"
+    },
+    {
+      "product_name": "Crimson Bloom: A Gothic Romance",
+      "brand": "Dark Manor Books",
+      "about_product": "Step into a world of dark secrets and forbidden love within the crumbling walls of Blackwood Manor. Perfect for fans of gothic romance.",
+      "actual_price": 24,
+      "discounted_price": 21,
+      "discount_percentage": 12.5,
+      "rating": 4.0,
+      "rating_count": 175,
+      "features": {
+        "genre": "Gothic Romance",
+        "format": "Hardcover",
+        "setting": "England",
+        "author": "Victoria Sterling"
+      },
+      "img_link": "https://example.com/images/crimson_bloom.jpg",
+      "product_link": "https://example.com/products/crimson_bloom"
+    },
+    {
+      "product_name": "The Algorithm of Regret",
+      "brand": "Cyberpunk Reads",
+      "about_product": "In a dystopian future, a rogue AI questions its existence and the nature of humanity. A thought-provoking cyberpunk thriller.",
+      "actual_price": 29,
+      "discounted_price": 26,
+      "discount_percentage": 10.34,
+      "rating": 4.4,
+      "rating_count": 240,
+      "features": {
+        "genre": "Cyberpunk",
+        "format": "Paperback",
+        "themes": "Artificial Intelligence, Dystopia",
+        "author": "Kai Nakamura"
+      },
+      "img_link": "https://example.com/images/algorithm_regret.jpg",
+      "product_link": "https://example.com/products/algorithm_regret"
+    }
+  ],
+  "Books > Academic": [
+    {
+      "product_name": "Calculus: Early Transcendentals, 9th Edition",
+      "brand": "James Stewart",
+      "about_product": "A comprehensive calculus textbook covering single and multivariable calculus, with an emphasis on conceptual understanding and problem-solving skills.",
+      "actual_price": 220,
+      "discounted_price": 187,
+      "discount_percentage": 15.0,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "Edition": "9th",
+        "Subject": "Calculus",
+        "Level": "Undergraduate",
+        "ISBN": "978-1305266643"
+      },
+      "img_link": "https://example.com/calculus_9th_edition.jpg",
+      "product_link": "https://example.com/product/calculus_9th_edition"
+    },
+    {
+      "product_name": "Linear Algebra and Its Applications, 5th Edition",
+      "brand": "David C. Lay",
+      "about_product": "Introduces linear algebra concepts with clear explanations and numerous applications across various fields.",
+      "actual_price": 195,
+      "discounted_price": 165.75,
+      "discount_percentage": 15.0,
+      "rating": 4.4,
+      "rating_count": 280,
+      "features": {
+        "Edition": "5th",
+        "Subject": "Linear Algebra",
+        "Level": "Undergraduate",
+        "Author": "David C. Lay",
+        "ISBN": "978-0321982384"
+      },
+      "img_link": "https://example.com/linear_algebra_5th_edition.jpg",
+      "product_link": "https://example.com/product/linear_algebra_5th_edition"
+    },
+    {
+      "product_name": "Organic Chemistry, 10th Edition",
+      "brand": "Paula Yurkanis Bruice",
+      "about_product": "A widely used textbook covering organic chemistry principles with clear explanations and illustrative examples.",
+      "actual_price": 250,
+      "discounted_price": 212.5,
+      "discount_percentage": 15.0,
+      "rating": 4.7,
+      "rating_count": 410,
+      "features": {
+        "Edition": "10th",
+        "Subject": "Organic Chemistry",
+        "Level": "Undergraduate",
+        "Author": "Paula Yurkanis Bruice",
+        "ISBN": "978-0321977281"
+      },
+      "img_link": "https://example.com/organic_chemistry_10th_edition.jpg",
+      "product_link": "https://example.com/product/organic_chemistry_10th_edition"
+    },
+    {
+      "product_name": "Introduction to Probability, 2nd Edition",
+      "brand": "Joseph K. Blitzstein",
+      "about_product": "An accessible introduction to probability theory, emphasizing intuition and applications.",
+      "actual_price": 160,
+      "discounted_price": 136,
+      "discount_percentage": 15.0,
+      "rating": 4.8,
+      "rating_count": 295,
+      "features": {
+        "Edition": "2nd",
+        "Subject": "Probability",
+        "Level": "Undergraduate",
+        "Author": "Joseph K. Blitzstein",
+        "ISBN": "978-1138369917"
+      },
+      "img_link": "https://example.com/probability_2nd_edition.jpg",
+      "product_link": "https://example.com/product/probability_2nd_edition"
+    },
+    {
+      "product_name": "Microeconomics, 9th Edition",
+      "brand": "Robert S. Pindyck",
+      "about_product": "A comprehensive guide to microeconomic theory and its applications in real-world scenarios.",
+      "actual_price": 210,
+      "discounted_price": 178.5,
+      "discount_percentage": 15.0,
+      "rating": 4.3,
+      "rating_count": 250,
+      "features": {
+        "Edition": "9th",
+        "Subject": "Microeconomics",
+        "Level": "Undergraduate",
+        "Author": "Robert S. Pindyck",
+        "ISBN": "978-0134173854"
+      },
+      "img_link": "https://example.com/microeconomics_9th_edition.jpg",
+      "product_link": "https://example.com/product/microeconomics_9th_edition"
+    },
+    {
+      "product_name": "Fundamentals of Physics, 11th Edition",
+      "brand": "Halliday & Resnick",
+      "about_product": "A classic introductory physics textbook covering mechanics, thermodynamics, electromagnetism, and optics.",
+      "actual_price": 230,
+      "discounted_price": 195.5,
+      "discount_percentage": 15.0,
+      "rating": 4.5,
+      "rating_count": 380,
+      "features": {
+        "Edition": "11th",
+        "Subject": "Physics",
+        "Level": "Undergraduate",
+        "Author": "Halliday & Resnick",
+        "ISBN": "978-1119306933"
+      },
+      "img_link": "https://example.com/physics_11th_edition.jpg",
+      "product_link": "https://example.com/product/physics_11th_edition"
+    },
+    {
+      "product_name": "Data Structures and Algorithm Analysis in C++, 4th Edition",
+      "brand": "Mark Allen Weiss",
+      "about_product": "A comprehensive guide to data structures and algorithms, with a focus on implementation in C++.",
+      "actual_price": 185,
+      "discounted_price": 157.25,
+      "discount_percentage": 15.0,
+      "rating": 4.2,
+      "rating_count": 220,
+      "features": {
+        "Edition": "4th",
+        "Subject": "Computer Science",
+        "Level": "Undergraduate",
+        "Language": "C++",
+        "ISBN": "978-0132847377"
+      },
+      "img_link": "https://example.com/data_structures_cpp_4th_edition.jpg",
+      "product_link": "https://example.com/product/data_structures_cpp_4th_edition"
+    },
+    {
+      "product_name": "Sociology: A Brief Introduction, 13th Edition",
+      "brand": "Richard T. Schaefer",
+      "about_product": "An accessible overview of sociological concepts, theories, and research methods.",
+      "actual_price": 175,
+      "discounted_price": 148.75,
+      "discount_percentage": 15.0,
+      "rating": 4.0,
+      "rating_count": 190,
+      "features": {
+        "Edition": "13th",
+        "Subject": "Sociology",
+        "Level": "Undergraduate",
+        "Author": "Richard T. Schaefer",
+        "ISBN": "978-1260734553"
+      },
+      "img_link": "https://example.com/sociology_13th_edition.jpg",
+      "product_link": "https://example.com/product/sociology_13th_edition"
+    },
+    {
+      "product_name": "Principles of Corporate Finance, 13th Edition",
+      "brand": "Richard Brealey",
+      "about_product": "A leading textbook on corporate finance, covering valuation, investment decisions, and financial strategy.",
+      "actual_price": 240,
+      "discounted_price": 204,
+      "discount_percentage": 15.0,
+      "rating": 4.1,
+      "rating_count": 265,
+      "features": {
+        "Edition": "13th",
+        "Subject": "Finance",
+        "Level": "Undergraduate",
+        "Author": "Richard Brealey",
+        "ISBN": "978-1260565645"
+      },
+      "img_link": "https://example.com/corporate_finance_13th_edition.jpg",
+      "product_link": "https://example.com/product/corporate_finance_13th_edition"
+    },
+    {
+      "product_name": "Human Anatomy & Physiology, 11th Edition",
+      "brand": "Elaine N. Marieb",
+      "about_product": "A comprehensive textbook covering the structure and function of the human body.",
+      "actual_price": 260,
+      "discounted_price": 221,
+      "discount_percentage": 15.0,
+      "rating": 4.9,
+      "rating_count": 450,
+      "features": {
+        "Edition": "11th",
+        "Subject": "Anatomy & Physiology",
+        "Level": "Undergraduate",
+        "Author": "Elaine N. Marieb",
+        "ISBN": "978-0134756363"
+      },
+      "img_link": "https://example.com/anatomy_physiology_11th_edition.jpg",
+      "product_link": "https://example.com/product/anatomy_physiology_11th_edition"
+    }
+  ],
+  "Sports & Fitness > Gym Equipment": [
+    {
+      "product_name": "PowerMaxx Adjustable Dumbbell Set - 50lbs",
+      "brand": "PowerMaxx",
+      "about_product": "Versatile dumbbell set for home workouts. Easily adjustable weight settings for progressive strength training.",
+      "actual_price": 399,
+      "discounted_price": 349,
+      "discount_percentage": 12.53,
+      "rating": 4.6,
+      "rating_count": 785,
+      "features": {
+        "weight_range": "5-50 lbs per dumbbell",
+        "adjustment_mechanism": "Dial system",
+        "material": "Steel & Cast Iron",
+        "handle_grip": "Ergonomic, Non-slip"
+      },
+      "img_link": "https://example.com/images/dumbbell_set.jpg",
+      "product_link": "https://example.com/products/dumbbell_set"
+    },
+    {
+      "product_name": "Titan Fitness T-3 Series Power Rack",
+      "brand": "Titan Fitness",
+      "about_product": "Heavy-duty power rack for squats, bench press, and more. Built to last with a sturdy steel frame.",
+      "actual_price": 649,
+      "discounted_price": 599,
+      "discount_percentage": 7.7,
+      "rating": 4.8,
+      "rating_count": 420,
+      "features": {
+        "steel_gauge": "11 Gauge Steel",
+        "weight_capacity": "1000 lbs",
+        "hole_spacing": "2 inch",
+        "dimensions": "83\"H x 48\"W x 53\"D"
+      },
+      "img_link": "https://example.com/images/power_rack.jpg",
+      "product_link": "https://example.com/products/power_rack"
+    },
+    {
+      "product_name": "BalanceFrom GoYoga All-Purpose Exercise Yoga Mat",
+      "brand": "BalanceFrom",
+      "about_product": "High-density yoga mat for comfort and support. Non-slip surface for secure workouts.",
+      "actual_price": 25,
+      "discounted_price": 19,
+      "discount_percentage": 24.0,
+      "rating": 4.3,
+      "rating_count": 1250,
+      "features": {
+        "thickness": "1/2 inch",
+        "material": "PVC",
+        "dimensions": "71\" x 24\"",
+        "color": "Multiple Available"
+      },
+      "img_link": "https://example.com/images/yoga_mat.jpg",
+      "product_link": "https://example.com/products/yoga_mat"
+    },
+    {
+      "product_name": "Fitbit Inspire 3 Fitness Tracker",
+      "brand": "Fitbit",
+      "about_product": "Track your activity, sleep, and heart rate. Stay motivated with personalized insights and goals.",
+      "actual_price": 99,
+      "discounted_price": 79,
+      "discount_percentage": 20.2,
+      "rating": 4.5,
+      "rating_count": 910,
+      "features": {
+        "battery_life": "Up to 10 days",
+        "water_resistance": "50M",
+        "connectivity": "Bluetooth",
+        "display_type": "Color OLED"
+      },
+      "img_link": "https://example.com/images/fitbit_inspire3.jpg",
+      "product_link": "https://example.com/products/fitbit_inspire3"
+    },
+    {
+      "product_name": "Marcy Recumbent Exercise Bike with Adjustable Resistance",
+      "brand": "Marcy",
+      "about_product": "Comfortable recumbent bike for low-impact cardio. Adjustable resistance for varied workout intensity.",
+      "actual_price": 299,
+      "discounted_price": 249,
+      "discount_percentage": 16.72,
+      "rating": 4.2,
+      "rating_count": 650,
+      "features": {
+        "resistance_levels": "8",
+        "display_type": "LCD",
+        "seat_adjustment": "Adjustable",
+        "weight_capacity": "300 lbs"
+      },
+      "img_link": "https://example.com/images/recumbent_bike.jpg",
+      "product_link": "https://example.com/products/recumbent_bike"
+    },
+    {
+      "product_name": "Rogue Echo Bike",
+      "brand": "Rogue Fitness",
+      "about_product": "Air bike for full-body cardio workouts. Durable construction for intense training sessions.",
+      "actual_price": 845,
+      "discounted_price": 795,
+      "discount_percentage": 5.92,
+      "rating": 4.9,
+      "rating_count": 320,
+      "features": {
+        "drive_system": "Belt-driven",
+        "fan_diameter": "27 inch",
+        "monitor_type": "LCD",
+        "weight_capacity": "350 lbs"
+      },
+      "img_link": "https://example.com/images/rogue_echo_bike.jpg",
+      "product_link": "https://example.com/products/rogue_echo_bike"
+    },
+    {
+      "product_name": "TRX GO Suspension Training Kit",
+      "brand": "TRX",
+      "about_product": "Portable suspension training system for full-body workouts. Train anywhere with this versatile kit.",
+      "actual_price": 199,
+      "discounted_price": 149,
+      "discount_percentage": 25.13,
+      "rating": 4.7,
+      "rating_count": 580,
+      "features": {
+        "strap_length": "Adjustable",
+        "anchor_type": "Door anchor & Suspension anchor",
+        "included_accessories": "Carry bag, workout guide",
+        "material": "Nylon"
+      },
+      "img_link": "https://example.com/images/trx_go.jpg",
+      "product_link": "https://example.com/products/trx_go"
+    },
+    {
+      "product_name": "Bowflex SelectTech 552 Adjustable Kettlebell",
+      "brand": "Bowflex",
+      "about_product": "Space-saving adjustable kettlebell. Replaces multiple kettlebells with a single unit.",
+      "actual_price": 249,
+      "discounted_price": 219,
+      "discount_percentage": 12.05,
+      "rating": 4.4,
+      "rating_count": 412,
+      "features": {
+        "weight_range": "8-40 lbs",
+        "adjustment_mechanism": "Dial system",
+        "material": "Cast iron",
+        "handle_grip": "Ergonomic"
+      },
+      "img_link": "https://example.com/images/bowflex_kettlebell.jpg",
+      "product_link": "https://example.com/products/bowflex_kettlebell"
+    },
+    {
+      "product_name": "Amazon Basics High-Density Round Foam Roller",
+      "brand": "Amazon Basics",
+      "about_product": "High-density foam roller for muscle recovery and flexibility. Ideal for self-massage and improving mobility.",
+      "actual_price": 20,
+      "discounted_price": 16,
+      "discount_percentage": 20.0,
+      "rating": 4.1,
+      "rating_count": 1855,
+      "features": {
+        "density": "High",
+        "material": "Expanded Polypropylene (EPP)",
+        "dimensions": "12\" or 18\" length",
+        "color": "Black"
+      },
+      "img_link": "https://example.com/images/foam_roller.jpg",
+      "product_link": "https://example.com/products/foam_roller"
+    },
+    {
+      "product_name": "Weider XRS 20 Olympic Workout Bench with Squat Rack",
+      "brand": "Weider",
+      "about_product": "Workout bench with integrated squat rack for versatile strength training. Supports incline, decline, and flat bench positions.",
+      "actual_price": 349,
+      "discounted_price": 299,
+      "discount_percentage": 14.33,
+      "rating": 3.9,
+      "rating_count": 280,
+      "features": {
+        "bench_positions": "Incline, Decline, Flat",
+        "leg_developer": "Yes",
+        "squat_rack": "Integrated",
+        "weight_capacity": "300 lbs (user + weights)"
+      },
+      "img_link": "https://example.com/images/weider_bench.jpg",
+      "product_link": "https://example.com/products/weider_bench"
+    }
+  ],
+  "Sports & Fitness > Yoga Accessories": [
+    {
+      "product_name": "Manduka PRO Yoga Mat - Black Sage",
+      "brand": "Manduka",
+      "about_product": "The legendary Manduka PRO mat provides unparalleled comfort and cushioning for all yoga styles. Known for its durability, this mat will last a lifetime.",
+      "actual_price": 149,
+      "discounted_price": 149,
+      "discount_percentage": 0.0,
+      "rating": 4.8,
+      "rating_count": 875,
+      "features": {
+        "Material": "Closed-cell PVC",
+        "Thickness": "6mm",
+        "Dimensions": "71\" x 26\"",
+        "Weight": "7.5 lbs"
+      },
+      "img_link": "https://example.com/manduka_pro_black_sage.jpg",
+      "product_link": "https://example.com/manduka_pro_black_sage"
+    },
+    {
+      "product_name": "Gaiam Essentials Yoga Block - Set of 2",
+      "brand": "Gaiam",
+      "about_product": "Deepen your stretches and improve your alignment with these lightweight and supportive yoga blocks. Perfect for beginners and experienced yogis alike.",
+      "actual_price": 20,
+      "discounted_price": 16,
+      "discount_percentage": 0.2,
+      "rating": 4.5,
+      "rating_count": 1230,
+      "features": {
+        "Material": "High-density EVA foam",
+        "Quantity": "2 blocks",
+        "Dimensions": "9\" x 6\" x 4\"",
+        "Lightweight": "Yes"
+      },
+      "img_link": "https://example.com/gaiam_yoga_blocks.jpg",
+      "product_link": "https://example.com/gaiam_yoga_blocks"
+    },
+    {
+      "product_name": "Yoga Design Lab Combo Yoga Mat - Mandala Black",
+      "brand": "Yoga Design Lab",
+      "about_product": "This innovative combo mat combines a yoga mat and towel in one, providing a slip-resistant surface even during sweaty practices. Made from recycled materials.",
+      "actual_price": 88,
+      "discounted_price": 70,
+      "discount_percentage": 0.2,
+      "rating": 4.7,
+      "rating_count": 542,
+      "features": {
+        "Material": "Natural rubber + Recycled microfiber",
+        "Dimensions": "70\" x 24\"",
+        "Thickness": "3.5mm",
+        "Absorbent": "Highly absorbent"
+      },
+      "img_link": "https://example.com/yoga_design_lab_mandala.jpg",
+      "product_link": "https://example.com/yoga_design_lab_mandala"
+    },
+    {
+      "product_name": "Reehut Yoga Knee Pad Cushion",
+      "brand": "Reehut",
+      "about_product": "Provide extra cushioning for your knees, elbows, and wrists during yoga and pilates. This thick pad is comfortable and portable.",
+      "actual_price": 15,
+      "discounted_price": 12,
+      "discount_percentage": 0.2,
+      "rating": 4.3,
+      "rating_count": 987,
+      "features": {
+        "Material": "NBR foam",
+        "Dimensions": "24\" x 10\" x 0.6\"",
+        "Thickness": "15mm",
+        "Portable": "Yes"
+      },
+      "img_link": "https://example.com/reehut_knee_pad.jpg",
+      "product_link": "https://example.com/reehut_knee_pad"
+    },
+    {
+      "product_name": "Liforme Yoga Mat - Alignment System",
+      "brand": "Liforme",
+      "about_product": "The Liforme yoga mat features a unique alignment system to help you perfect your poses. Made with planet-friendly materials and superior grip.",
+      "actual_price": 150,
+      "discounted_price": 135,
+      "discount_percentage": 0.1,
+      "rating": 4.9,
+      "rating_count": 620,
+      "features": {
+        "Material": "Eco-polyurethane + Natural rubber",
+        "Dimensions": "72.8\" x 26.8\"",
+        "Thickness": "4.2mm",
+        "Alignment Markers": "Yes"
+      },
+      "img_link": "https://example.com/liforme_yoga_mat.jpg",
+      "product_link": "https://example.com/liforme_yoga_mat"
+    },
+    {
+      "product_name": "Yoga Strap - 8ft Adjustable",
+      "brand": "BalanceFrom",
+      "about_product": "Improve your flexibility and reach with this durable and adjustable yoga strap. Perfect for stretching and deepening poses.",
+      "actual_price": 10,
+      "discounted_price": 8,
+      "discount_percentage": 0.2,
+      "rating": 4.6,
+      "rating_count": 1500,
+      "features": {
+        "Material": "Cotton",
+        "Length": "8 feet",
+        "Adjustable": "Yes",
+        "D-Ring Buckle": "Yes"
+      },
+      "img_link": "https://example.com/yoga_strap.jpg",
+      "product_link": "https://example.com/yoga_strap"
+    },
+    {
+      "product_name": "Cork Yoga Block - Eco Friendly",
+      "brand": "Heathyoga",
+      "about_product": "Made from sustainable cork, this yoga block offers firm support and a natural grip. An eco-friendly alternative to foam blocks.",
+      "actual_price": 25,
+      "discounted_price": 20,
+      "discount_percentage": 0.2,
+      "rating": 4.4,
+      "rating_count": 780,
+      "features": {
+        "Material": "Natural Cork",
+        "Dimensions": "9\" x 6\" x 4\"",
+        "Durable": "Yes",
+        "Eco-Friendly": "Yes"
+      },
+      "img_link": "https://example.com/cork_yoga_block.jpg",
+      "product_link": "https://example.com/cork_yoga_block"
+    },
+    {
+      "product_name": "Yoga Mat Bag - Full-Zip Carrier",
+      "brand": "Ewedoos",
+      "about_product": "Easily carry and protect your yoga mat with this stylish and functional bag. Features a full-zip closure and adjustable shoulder strap.",
+      "actual_price": 28,
+      "discounted_price": 22,
+      "discount_percentage": 0.214,
+      "rating": 4.2,
+      "rating_count": 345,
+      "features": {
+        "Material": "Canvas",
+        "Closure": "Full-zip",
+        "Adjustable Strap": "Yes",
+        "Fits Most Mats": "Yes"
+      },
+      "img_link": "https://example.com/yoga_mat_bag.jpg",
+      "product_link": "https://example.com/yoga_mat_bag"
+    },
+    {
+      "product_name": "Meditation Cushion - Zafu Style",
+      "brand": "Bean Products",
+      "about_product": "Promote comfortable and upright posture during meditation with this traditional Zafu cushion. Filled with buckwheat hulls for support.",
+      "actual_price": 65,
+      "discounted_price": 55,
+      "discount_percentage": 0.154,
+      "rating": 4.0,
+      "rating_count": 280,
+      "features": {
+        "Material": "Cotton Twill",
+        "Filling": "Buckwheat Hulls",
+        "Diameter": "15 inches",
+        "Height": "6 inches"
+      },
+      "img_link": "https://example.com/meditation_cushion.jpg",
+      "product_link": "https://example.com/meditation_cushion"
+    },
+    {
+      "product_name": "Yoga Wheel - Back Stretcher",
+      "brand": "UpCircleSeven",
+      "about_product": "Improve your backbends and release tension with this sturdy yoga wheel. Perfect for stretching and relieving back pain.",
+      "actual_price": 35,
+      "discounted_price": 28,
+      "discount_percentage": 0.2,
+      "rating": 4.1,
+      "rating_count": 410,
+      "features": {
+        "Material": "ABS Plastic + TPE",
+        "Diameter": "12 inches",
+        "Width": "5 inches",
+        "Weight Capacity": "550 lbs"
+      },
+      "img_link": "https://example.com/yoga_wheel.jpg",
+      "product_link": "https://example.com/yoga_wheel"
+    }
+  ],
+  "Sports & Fitness > Sportswear": [
+    {
+      "product_name": "Apex Performance Running Shorts",
+      "brand": "RunTech",
+      "about_product": "Lightweight running shorts designed for maximum breathability and comfort. Built-in liner for added support.",
+      "actual_price": 45,
+      "discounted_price": 35,
+      "discount_percentage": 22.22,
+      "rating": 4.6,
+      "rating_count": 215,
+      "features": {
+        "Material": "Moisture-wicking Polyester",
+        "Fit": "Athletic Fit",
+        "Pockets": "Zippered Back Pocket",
+        "Inseam": "5 inch"
+      },
+      "img_link": "https://example.com/images/running_shorts.jpg",
+      "product_link": "https://example.com/products/running_shorts"
+    },
+    {
+      "product_name": "Zenith Women's Yoga Leggings",
+      "brand": "YogaLife",
+      "about_product": "High-waisted yoga leggings offering superior comfort and flexibility. Perfect for yoga, Pilates, or everyday wear.",
+      "actual_price": 60,
+      "discounted_price": 48,
+      "discount_percentage": 20.0,
+      "rating": 4.8,
+      "rating_count": 350,
+      "features": {
+        "Material": "Nylon/Spandex Blend",
+        "Waist": "High-Waisted",
+        "Compression": "Medium",
+        "Opacity": "Opaque"
+      },
+      "img_link": "https://example.com/images/yoga_leggings.jpg",
+      "product_link": "https://example.com/products/yoga_leggings"
+    },
+    {
+      "product_name": "Enduro Training T-Shirt",
+      "brand": "PowerUp",
+      "about_product": "Durable and breathable training t-shirt designed to withstand intense workouts. Anti-odor technology keeps you fresh.",
+      "actual_price": 30,
+      "discounted_price": 25,
+      "discount_percentage": 16.67,
+      "rating": 4.2,
+      "rating_count": 180,
+      "features": {
+        "Material": "Polyester/Elastane Blend",
+        "Fit": "Regular Fit",
+        "Technology": "Anti-Odor",
+        "Sleeves": "Short Sleeves"
+      },
+      "img_link": "https://example.com/images/training_tshirt.jpg",
+      "product_link": "https://example.com/products/training_tshirt"
+    },
+    {
+      "product_name": "AquaGlide Swimsuit",
+      "brand": "SwimStar",
+      "about_product": "Performance swimsuit engineered for optimal hydrodynamics and speed in the water. Chlorine resistant fabric.",
+      "actual_price": 75,
+      "discounted_price": 65,
+      "discount_percentage": 13.33,
+      "rating": 4.9,
+      "rating_count": 280,
+      "features": {
+        "Material": "Polyester/PBT Blend",
+        "Style": "Racerback",
+        "Chlorine Resistance": "High",
+        "UPF": "50+"
+      },
+      "img_link": "https://example.com/images/swimsuit.jpg",
+      "product_link": "https://example.com/products/swimsuit"
+    },
+    {
+      "product_name": "Elite Basketball Jersey",
+      "brand": "HoopsGear",
+      "about_product": "Lightweight, breathable basketball jersey. Designed for peak performance on the court.",
+      "actual_price": 55,
+      "discounted_price": 40,
+      "discount_percentage": 27.27,
+      "rating": 4.5,
+      "rating_count": 195,
+      "features": {
+        "Material": "Dri-FIT Polyester",
+        "Fit": "Relaxed Fit",
+        "Neckline": "V-Neck",
+        "Technology": "Moisture-Wicking"
+      },
+      "img_link": "https://example.com/images/basketball_jersey.jpg",
+      "product_link": "https://example.com/products/basketball_jersey"
+    },
+    {
+      "product_name": "Trailblazer Hiking Pants",
+      "brand": "OutdoorPro",
+      "about_product": "Durable and water-resistant hiking pants. Articulated knees for enhanced mobility on the trails.",
+      "actual_price": 80,
+      "discounted_price": 70,
+      "discount_percentage": 12.5,
+      "rating": 4.3,
+      "rating_count": 160,
+      "features": {
+        "Material": "Nylon/Spandex Blend",
+        "Water Resistance": "DWR Finish",
+        "Pockets": "Multiple Zippered Pockets",
+        "Fit": "Active Fit"
+      },
+      "img_link": "https://example.com/images/hiking_pants.jpg",
+      "product_link": "https://example.com/products/hiking_pants"
+    },
+    {
+      "product_name": "FlexFit Training Hoodie",
+      "brand": "GymCore",
+      "about_product": "Versatile training hoodie made with a soft, stretchy fabric. Perfect for warm-ups or cool-downs.",
+      "actual_price": 50,
+      "discounted_price": 42,
+      "discount_percentage": 16.0,
+      "rating": 3.9,
+      "rating_count": 120,
+      "features": {
+        "Material": "Cotton/Polyester Blend",
+        "Fit": "Slim Fit",
+        "Hood": "Adjustable Drawstring",
+        "Pockets": "Kangaroo Pocket"
+      },
+      "img_link": "https://example.com/images/training_hoodie.jpg",
+      "product_link": "https://example.com/products/training_hoodie"
+    },
+    {
+      "product_name": "Velocity Cycling Jersey",
+      "brand": "CycleGear",
+      "about_product": "Aerodynamic cycling jersey designed for speed and performance. Breathable fabric and full-length zipper.",
+      "actual_price": 90,
+      "discounted_price": 75,
+      "discount_percentage": 16.67,
+      "rating": 4.7,
+      "rating_count": 240,
+      "features": {
+        "Material": "Polyester/Spandex Blend",
+        "Fit": "Race Fit",
+        "Pockets": "Three Rear Pockets",
+        "Zipper": "Full-Length Zipper"
+      },
+      "img_link": "https://example.com/images/cycling_jersey.jpg",
+      "product_link": "https://example.com/products/cycling_jersey"
+    },
+    {
+      "product_name": "Swift Running Jacket",
+      "brand": "RunnersChoice",
+      "about_product": "Lightweight and packable running jacket. Wind and water resistant for optimal protection.",
+      "actual_price": 70,
+      "discounted_price": 60,
+      "discount_percentage": 14.29,
+      "rating": 4.0,
+      "rating_count": 95,
+      "features": {
+        "Material": "Ripstop Nylon",
+        "Water Resistance": "Water Resistant",
+        "Pockets": "Zippered Hand Pockets",
+        "Packable": "Yes"
+      },
+      "img_link": "https://example.com/images/running_jacket.jpg",
+      "product_link": "https://example.com/products/running_jacket"
+    },
+    {
+      "product_name": "PowerLift Weightlifting Gloves",
+      "brand": "StrengthFirst",
+      "about_product": "Durable weightlifting gloves providing enhanced grip and protection. Padded palms for added comfort.",
+      "actual_price": 35,
+      "discounted_price": 30,
+      "discount_percentage": 14.29,
+      "rating": 4.4,
+      "rating_count": 155,
+      "features": {
+        "Material": "Leather/Spandex",
+        "Padding": "Padded Palms",
+        "Closure": "Hook and Loop",
+        "Ventilation": "Breathable Back"
+      },
+      "img_link": "https://example.com/images/weightlifting_gloves.jpg",
+      "product_link": "https://example.com/products/weightlifting_gloves"
+    }
+  ],
+  "Toys & Games > Educational Toys": [
+    {
+      "product_name": "Coding Critters Ranger & Zip",
+      "brand": "Learning Resources",
+      "about_product": "Introduce early coding concepts with these interactive robot pets! Children learn sequencing and problem-solving through fun, hands-on activities.",
+      "actual_price": 4999,
+      "discounted_price": 3999,
+      "discount_percentage": 20.0,
+      "rating": 4.6,
+      "rating_count": 785,
+      "features": {
+        "Age Range": "4-8 years",
+        "Skills": "Coding, Problem-Solving, Critical Thinking",
+        "Power Source": "Batteries Required",
+        "Robot Type": "Interactive Robot Pet"
+      },
+      "img_link": "https://example.com/coding_critters.jpg",
+      "product_link": "https://example.com/product/coding_critters"
+    },
+    {
+      "product_name": "Montessori Wooden Shape Sorter",
+      "brand": "TOP BRIGHT",
+      "about_product": "A classic Montessori toy designed to develop fine motor skills and spatial reasoning. Made from sustainably sourced wood and painted with non-toxic materials.",
+      "actual_price": 2499,
+      "discounted_price": 1999,
+      "discount_percentage": 20.0,
+      "rating": 4.8,
+      "rating_count": 1230,
+      "features": {
+        "Age Range": "18 months+",
+        "Material": "Wood",
+        "Skills": "Fine Motor Skills, Shape Recognition, Hand-Eye Coordination",
+        "Toy Type": "Shape Sorter"
+      },
+      "img_link": "https://example.com/montessori_sorter.jpg",
+      "product_link": "https://example.com/product/montessori_sorter"
+    },
+    {
+      "product_name": "Magnetic Tiles Building Blocks",
+      "brand": "MAGNA-TILES",
+      "about_product": "Encourage creativity and STEM learning with these colorful magnetic tiles. Easy to connect and build, promoting spatial reasoning and geometric understanding.",
+      "actual_price": 7999,
+      "discounted_price": 6499,
+      "discount_percentage": 18.75,
+      "rating": 4.9,
+      "rating_count": 2100,
+      "features": {
+        "Age Range": "3+ years",
+        "Material": "ABS Plastic, Magnet",
+        "Skills": "Spatial Reasoning, Geometric Concepts, Creativity",
+        "Pieces": "100"
+      },
+      "img_link": "https://example.com/magnetic_tiles.jpg",
+      "product_link": "https://example.com/product/magnetic_tiles"
+    },
+    {
+      "product_name": "Osmo Coding Starter Kit",
+      "brand": "Osmo",
+      "about_product": "Transform your iPad or Fire Tablet into a hands-on coding learning platform. Develop coding skills through engaging games and interactive challenges.",
+      "actual_price": 9999,
+      "discounted_price": 8499,
+      "discount_percentage": 15.0,
+      "rating": 4.7,
+      "rating_count": 950,
+      "features": {
+        "Age Range": "5-10 years",
+        "Compatibility": "iPad, Fire Tablet",
+        "Skills": "Coding, Problem-Solving, Computational Thinking",
+        "Learning System": "Interactive, Game-Based"
+      },
+      "img_link": "https://example.com/osmo_coding.jpg",
+      "product_link": "https://example.com/product/osmo_coding"
+    },
+    {
+      "product_name": "NATIONAL GEOGRAPHIC Mega Crystal Growing Lab",
+      "brand": "NATIONAL GEOGRAPHIC",
+      "about_product": "Grow your own sparkling crystals with this fascinating science kit! Explore the world of geology and chemistry through hands-on experiments.",
+      "actual_price": 3499,
+      "discounted_price": 2799,
+      "discount_percentage": 20.0,
+      "rating": 4.5,
+      "rating_count": 620,
+      "features": {
+        "Age Range": "8+ years",
+        "Skills": "Science, Geology, Chemistry",
+        "Experiment Type": "Crystal Growing",
+        "Included Components": "Growing powder, container, seed rocks"
+      },
+      "img_link": "https://example.com/crystal_lab.jpg",
+      "product_link": "https://example.com/product/crystal_lab"
+    },
+    {
+      "product_name": "LeapFrog 100 Animals Book",
+      "brand": "LeapFrog",
+      "about_product": "Explore the animal kingdom with this interactive learning book! Touch the pages to hear animal sounds and learn fun facts.",
+      "actual_price": 2999,
+      "discounted_price": 2499,
+      "discount_percentage": 16.67,
+      "rating": 4.4,
+      "rating_count": 880,
+      "features": {
+        "Age Range": "18 months+",
+        "Skills": "Language Development, Animal Recognition, Early Learning",
+        "Interactive": "Sound Effects, Fun Facts",
+        "Power Source": "Batteries Included"
+      },
+      "img_link": "https://example.com/leapfrog_animals.jpg",
+      "product_link": "https://example.com/product/leapfrog_animals"
+    },
+    {
+      "product_name": "Brainwright Kanoodle Gravity Falls",
+      "brand": "Brainwright",
+      "about_product": "A challenging spatial reasoning puzzle game based on the popular Gravity Falls series. Test your problem-solving skills with hundreds of brain-teasing puzzles.",
+      "actual_price": 1999,
+      "discounted_price": 1599,
+      "discount_percentage": 20.0,
+      "rating": 4.7,
+      "rating_count": 450,
+      "features": {
+        "Age Range": "8+ years",
+        "Skills": "Spatial Reasoning, Problem-Solving, Critical Thinking",
+        "Puzzle Type": "Spatial Puzzle",
+        "Number of Puzzles": "200"
+      },
+      "img_link": "https://example.com/kanoodle.jpg",
+      "product_link": "https://example.com/product/kanoodle"
+    },
+    {
+      "product_name": "Melissa & Doug See & Spell Learning Toy",
+      "brand": "Melissa & Doug",
+      "about_product": "A classic spelling game that helps children learn to spell and recognize words. Includes wooden letters and picture cards for engaging learning.",
+      "actual_price": 2799,
+      "discounted_price": 2239,
+      "discount_percentage": 20.0,
+      "rating": 4.5,
+      "rating_count": 1500,
+      "features": {
+        "Age Range": "4+ years",
+        "Material": "Wood",
+        "Skills": "Spelling, Word Recognition, Vocabulary",
+        "Toy Type": "Spelling Game"
+      },
+      "img_link": "https://example.com/see_spell.jpg",
+      "product_link": "https://example.com/product/see_spell"
+    },
+    {
+      "product_name": "ThinkFun Gravity Maze Marble Run Logic Game",
+      "brand": "ThinkFun",
+      "about_product": "Build mazes that lead marbles to their target in this exciting logic game. Develop critical thinking and problem-solving skills in a fun and engaging way.",
+      "actual_price": 3999,
+      "discounted_price": 3199,
+      "discount_percentage": 20.0,
+      "rating": 4.8,
+      "rating_count": 1122,
+      "features": {
+        "Age Range": "8+ years",
+        "Skills": "Logic, Critical Thinking, Problem-Solving",
+        "Game Type": "Marble Run",
+        "Number of Challenges": "60"
+      },
+      "img_link": "https://example.com/gravity_maze.jpg",
+      "product_link": "https://example.com/product/gravity_maze"
+    },
+    {
+      "product_name": "VTech KidiBeats Kids Drum Set",
+      "brand": "VTech",
+      "about_product": "Encourage a love of music with this interactive drum set! Features multiple play modes, melodies, and learning games for early musical exploration.",
+      "actual_price": 5499,
+      "discounted_price": 4399,
+      "discount_percentage": 20.0,
+      "rating": 4.3,
+      "rating_count": 550,
+      "features": {
+        "Age Range": "2-5 years",
+        "Skills": "Music, Rhythm, Sensory Development",
+        "Toy Type": "Drum Set",
+        "Features": "Multiple Modes, Melodies, Games"
+      },
+      "img_link": "https://example.com/kidi_beats.jpg",
+      "product_link": "https://example.com/product/kidi_beats"
+    }
+  ],
+  "Toys & Games > Board Games": [
+    {
+      "product_name": "Ticket to Ride: Europe",
+      "brand": "Days of Wonder",
+      "about_product": "Build railway routes across a reimagined turn-of-the-century Europe in this classic board game. Collect train cars and claim routes to connect cities and score points.",
+      "actual_price": 55,
+      "discounted_price": 42,
+      "discount_percentage": 23.64,
+      "rating": 4.7,
+      "rating_count": 1850,
+      "features": {
+        "players": "2-5",
+        "playtime": "30-60 minutes",
+        "complexity": "Medium",
+        "age_range": "8+"
+      },
+      "img_link": "https://example.com/ticket_to_ride_europe.jpg",
+      "product_link": "https://example.com/products/ticket-to-ride-europe"
+    },
+    {
+      "product_name": "Codenames",
+      "brand": "Czech Games Edition",
+      "about_product": "Two teams compete to identify their secret agents from a grid of words based on one-word clues given by their spymasters. Avoid the assassin!",
+      "actual_price": 25,
+      "discounted_price": 20,
+      "discount_percentage": 20.0,
+      "rating": 4.8,
+      "rating_count": 2300,
+      "features": {
+        "players": "2-8+",
+        "playtime": "15 minutes",
+        "complexity": "Easy",
+        "age_range": "10+"
+      },
+      "img_link": "https://example.com/codenames.jpg",
+      "product_link": "https://example.com/products/codenames"
+    },
+    {
+      "product_name": "Gloomhaven: Jaws of the Lion",
+      "brand": "Cephalofair Games",
+      "about_product": "A standalone, cooperative campaign in the world of Gloomhaven. Experience tactical combat and character progression in a streamlined package.",
+      "actual_price": 50,
+      "discounted_price": 45,
+      "discount_percentage": 10.0,
+      "rating": 4.9,
+      "rating_count": 1200,
+      "features": {
+        "players": "1-4",
+        "playtime": "30-120 minutes",
+        "complexity": "Complex",
+        "age_range": "14+"
+      },
+      "img_link": "https://example.com/gloomhaven_jaws_of_the_lion.jpg",
+      "product_link": "https://example.com/products/gloomhaven-jaws-of-the-lion"
+    },
+    {
+      "product_name": "Settlers of Catan",
+      "brand": "Catan Studio",
+      "about_product": "A strategic game of resource management, negotiation, and building settlements. Roll the dice, trade resources, and be the first to 10 victory points!",
+      "actual_price": 40,
+      "discounted_price": 35,
+      "discount_percentage": 12.5,
+      "rating": 4.6,
+      "rating_count": 2000,
+      "features": {
+        "players": "3-4",
+        "playtime": "45-90 minutes",
+        "complexity": "Medium",
+        "age_range": "10+"
+      },
+      "img_link": "https://example.com/settlers_of_catan.jpg",
+      "product_link": "https://example.com/products/settlers-of-catan"
+    },
+    {
+      "product_name": "Pandemic",
+      "brand": "Z-Man Games",
+      "about_product": "A cooperative board game where players work together to stop the spread of four deadly diseases and save humanity. Can you contain the outbreaks?",
+      "actual_price": 45,
+      "discounted_price": 38,
+      "discount_percentage": 15.56,
+      "rating": 4.5,
+      "rating_count": 1500,
+      "features": {
+        "players": "2-4",
+        "playtime": "45 minutes",
+        "complexity": "Medium",
+        "age_range": "8+"
+      },
+      "img_link": "https://example.com/pandemic.jpg",
+      "product_link": "https://example.com/products/pandemic"
+    },
+    {
+      "product_name": "Dixit",
+      "brand": "Libellud",
+      "about_product": "A beautifully illustrated storytelling game where players take turns being the storyteller and describing surreal images. Use your imagination!",
+      "actual_price": 35,
+      "discounted_price": 30,
+      "discount_percentage": 14.29,
+      "rating": 4.4,
+      "rating_count": 900,
+      "features": {
+        "players": "3-6",
+        "playtime": "30 minutes",
+        "complexity": "Easy",
+        "age_range": "8+"
+      },
+      "img_link": "https://example.com/dixit.jpg",
+      "product_link": "https://example.com/products/dixit"
+    },
+    {
+      "product_name": "Azul",
+      "brand": "Next Move Games",
+      "about_product": "A tile-drafting and pattern-building game with beautiful components. Decorate the walls of the Royal Palace of Évora with colorful tiles.",
+      "actual_price": 40,
+      "discounted_price": 36,
+      "discount_percentage": 10.0,
+      "rating": 4.7,
+      "rating_count": 1100,
+      "features": {
+        "players": "2-4",
+        "playtime": "30-45 minutes",
+        "complexity": "Easy",
+        "age_range": "8+"
+      },
+      "img_link": "https://example.com/azul.jpg",
+      "product_link": "https://example.com/products/azul"
+    },
+    {
+      "product_name": "7 Wonders",
+      "brand": "Repos Production",
+      "about_product": "Develop your civilization, build wonders, and compete with your neighbors in this fast-paced card drafting game. Lead your city to greatness!",
+      "actual_price": 60,
+      "discounted_price": 50,
+      "discount_percentage": 16.67,
+      "rating": 4.6,
+      "rating_count": 1350,
+      "features": {
+        "players": "2-7",
+        "playtime": "30 minutes",
+        "complexity": "Medium",
+        "age_range": "10+"
+      },
+      "img_link": "https://example.com/7wonders.jpg",
+      "product_link": "https://example.com/products/7-wonders"
+    },
+    {
+      "product_name": "Root",
+      "brand": "Leder Games",
+      "about_product": "A game of woodland might and right, Root features asymmetrical factions vying for control of the forest. Battle for dominance with unique abilities.",
+      "actual_price": 80,
+      "discounted_price": 70,
+      "discount_percentage": 12.5,
+      "rating": 4.8,
+      "rating_count": 800,
+      "features": {
+        "players": "2-4",
+        "playtime": "60-90 minutes",
+        "complexity": "Complex",
+        "age_range": "10+"
+      },
+      "img_link": "https://example.com/root.jpg",
+      "product_link": "https://example.com/products/root"
+    },
+    {
+      "product_name": "Monopoly",
+      "brand": "Hasbro",
+      "about_product": "The classic property trading game! Buy, sell, and develop properties to bankrupt your opponents and become the ultimate real estate tycoon.",
+      "actual_price": 28,
+      "discounted_price": 22,
+      "discount_percentage": 21.43,
+      "rating": 3.8,
+      "rating_count": 2500,
+      "features": {
+        "players": "2-8",
+        "playtime": "60-180 minutes",
+        "complexity": "Easy",
+        "age_range": "8+"
+      },
+      "img_link": "https://example.com/monopoly.jpg",
+      "product_link": "https://example.com/products/monopoly"
+    }
+  ],
+  "Toys & Games > Outdoor Toys": [
+    {
+      "product_name": "Giant Bubble Wand Kit",
+      "brand": "Wow Bubbles",
+      "about_product": "Create massive, long-lasting bubbles with this easy-to-use kit. Perfect for kids and adults alike!",
+      "actual_price": 25,
+      "discounted_price": 20,
+      "discount_percentage": 0.2,
+      "rating": 4.7,
+      "rating_count": 325,
+      "features": {
+        "material": "Durable plastic & cotton",
+        "bubble_solution_included": "Yes",
+        "wand_length": "36 inches"
+      },
+      "img_link": "https://example.com/giant_bubble_wand.jpg",
+      "product_link": "https://example.com/products/giant_bubble_wand"
+    },
+    {
+      "product_name": "Kids Archery Set with LED Light",
+      "brand": "AOKEY",
+      "about_product": "Introduce your child to the fun of archery with this safe and engaging set. Features LED lights for nighttime play!",
+      "actual_price": 40,
+      "discounted_price": 32,
+      "discount_percentage": 0.2,
+      "rating": 4.2,
+      "rating_count": 180,
+      "features": {
+        "age_range": "6+",
+        "material": "Non-toxic ABS plastic",
+        "bow_length": "30 inches",
+        "number_of_arrows": "3"
+      },
+      "img_link": "https://example.com/kids_archery_set.jpg",
+      "product_link": "https://example.com/products/kids_archery_set"
+    },
+    {
+      "product_name": "Disc Golf Starter Set",
+      "brand": "Innova",
+      "about_product": "Get started with disc golf using this complete set, including a driver, mid-range, and putter.",
+      "actual_price": 35,
+      "discounted_price": 30,
+      "discount_percentage": 0.14,
+      "rating": 4.9,
+      "rating_count": 450,
+      "features": {
+        "disc_type": "Driver, Mid-range, Putter",
+        "material": "DX Plastic",
+        "weight_range": "165-175g"
+      },
+      "img_link": "https://example.com/disc_golf_set.jpg",
+      "product_link": "https://example.com/products/disc_golf_set"
+    },
+    {
+      "product_name": "Kids Pop Up Play Tent with Tunnel",
+      "brand": "Kiddey",
+      "about_product": "A fun and colorful play tent and tunnel combo that provides hours of imaginative play for kids.",
+      "actual_price": 50,
+      "discounted_price": 40,
+      "discount_percentage": 0.2,
+      "rating": 4.5,
+      "rating_count": 290,
+      "features": {
+        "material": "Polyester fabric",
+        "dimensions": "Tunnel: 4ft long, Tent: 3ft diameter",
+        "age_range": "3-8 years",
+        "storage": "Folds flat for easy storage"
+      },
+      "img_link": "https://example.com/play_tent_tunnel.jpg",
+      "product_link": "https://example.com/products/play_tent_tunnel"
+    },
+    {
+      "product_name": "Water Balloon Launcher",
+      "brand": "SlingKing",
+      "about_product": "Launch water balloons incredible distances with this powerful and durable launcher.",
+      "actual_price": 30,
+      "discounted_price": 27,
+      "discount_percentage": 0.1,
+      "rating": 4.0,
+      "rating_count": 150,
+      "features": {
+        "material": "Latex tubing and nylon pouch",
+        "range": "Up to 300 feet",
+        "recommended_age": "14+"
+      },
+      "img_link": "https://example.com/water_balloon_launcher.jpg",
+      "product_link": "https://example.com/products/water_balloon_launcher"
+    },
+    {
+      "product_name": "Wooden Swing Set with Slide",
+      "brand": "Backyard Discovery",
+      "about_product": "A classic wooden swing set with swings and a slide for endless outdoor fun.",
+      "actual_price": 300,
+      "discounted_price": 250,
+      "discount_percentage": 0.17,
+      "rating": 4.6,
+      "rating_count": 120,
+      "features": {
+        "material": "Cedar Wood",
+        "number_of_swings": "2",
+        "slide_length": "6 feet",
+        "weight_capacity": "150 lbs per swing"
+      },
+      "img_link": "https://example.com/wooden_swing_set.jpg",
+      "product_link": "https://example.com/products/wooden_swing_set"
+    },
+    {
+      "product_name": "Pogo Stick for Kids",
+      "brand": "Flybar",
+      "about_product": "Classic pogo stick for kids, promoting balance and coordination. Choose from a variety of colors.",
+      "actual_price": 60,
+      "discounted_price": 50,
+      "discount_percentage": 0.17,
+      "rating": 4.3,
+      "rating_count": 95,
+      "features": {
+        "weight_limit": "80 lbs",
+        "frame_material": "Steel",
+        "foot_pads": "Non-slip",
+        "age_range": "5-9 years"
+      },
+      "img_link": "https://example.com/pogo_stick.jpg",
+      "product_link": "https://example.com/products/pogo_stick"
+    },
+    {
+      "product_name": "Kite for Beach, Park, Easy to Fly",
+      "brand": "Mint's Colorful Life",
+      "about_product": "Easy to assemble and fly kite. Perfect for beginners of all ages.",
+      "actual_price": 18,
+      "discounted_price": 15,
+      "discount_percentage": 0.17,
+      "rating": 4.8,
+      "rating_count": 622,
+      "features": {
+        "material": "Ripstop Nylon",
+        "kite_type": "Diamond",
+        "wind_range": "6-20 mph",
+        "skill_level": "Beginner"
+      },
+      "img_link": "https://example.com/diamond_kite.jpg",
+      "product_link": "https://example.com/products/diamond_kite"
+    },
+    {
+      "product_name": "Trampoline with Safety Net",
+      "brand": "Skywalker Trampolines",
+      "about_product": "Enjoy outdoor fun with this safe trampoline, complete with enclosure net.",
+      "actual_price": 400,
+      "discounted_price": 350,
+      "discount_percentage": 0.13,
+      "rating": 4.4,
+      "rating_count": 287,
+      "features": {
+        "diameter": "12 feet",
+        "weight_capacity": "200 lbs",
+        "frame_material": "Galvanized Steel",
+        "enclosure_type": "Zippered"
+      },
+      "img_link": "https://example.com/trampoline.jpg",
+      "product_link": "https://example.com/products/trampoline"
+    },
+    {
+      "product_name": "Junior Golf Club Set",
+      "brand": "Callaway",
+      "about_product": "A complete set of golf clubs designed specifically for junior golfers, helping them learn the game.",
+      "actual_price": 200,
+      "discounted_price": 180,
+      "discount_percentage": 0.1,
+      "rating": 3.9,
+      "rating_count": 75,
+      "features": {
+        "age_range": "5-8 years",
+        "club_count": "5",
+        "hand_orientation": "Right-handed",
+        "material": "Steel & Graphite"
+      },
+      "img_link": "https://example.com/junior_golf_set.jpg",
+      "product_link": "https://example.com/products/junior_golf_set"
+    }
+  ],
+  "Groceries > Beverages": [
+    {
+      "product_name": "Organic Cold Brew Coffee - Bold & Smooth",
+      "brand": "Bean Brothers",
+      "about_product": "Slow-steeped for 20 hours, delivering a rich and less acidic coffee experience. Made with 100% Arabica beans.",
+      "actual_price": 15,
+      "discounted_price": 12,
+      "discount_percentage": 0.2,
+      "rating": 4.6,
+      "rating_count": 245,
+      "features": {
+        "type": "Cold Brew",
+        "bean_type": "Arabica",
+        "organic": "Yes",
+        "caffeine_level": "High"
+      },
+      "img_link": "https://example.com/images/coldbrew.jpg",
+      "product_link": "https://example.com/products/coldbrew"
+    },
+    {
+      "product_name": "Sparkling Raspberry Lemonade - 12 Pack",
+      "brand": "FizzPop",
+      "about_product": "A refreshing blend of real raspberries and lemons with a sparkling twist. Perfect for parties and everyday enjoyment.",
+      "actual_price": 20,
+      "discounted_price": 18,
+      "discount_percentage": 0.1,
+      "rating": 4.2,
+      "rating_count": 180,
+      "features": {
+        "flavor": "Raspberry Lemonade",
+        "pack_size": "12 x 12oz Cans",
+        "sweetener": "Cane Sugar",
+        "carbonated": "Yes"
+      },
+      "img_link": "https://example.com/images/raspberrylemonade.jpg",
+      "product_link": "https://example.com/products/raspberrylemonade"
+    },
+    {
+      "product_name": "Almond Milk - Unsweetened Vanilla",
+      "brand": "SilkTree",
+      "about_product": "Creamy and delicious almond milk with a hint of vanilla. Dairy-free, gluten-free, and vegan-friendly.",
+      "actual_price": 7,
+      "discounted_price": 6,
+      "discount_percentage": 0.14,
+      "rating": 4.8,
+      "rating_count": 312,
+      "features": {
+        "type": "Almond Milk",
+        "flavor": "Vanilla",
+        "sweetened": "No",
+        "size": "64 oz"
+      },
+      "img_link": "https://example.com/images/almondmilk.jpg",
+      "product_link": "https://example.com/products/almondmilk"
+    },
+    {
+      "product_name": "Orange Juice - Pulp-Free",
+      "brand": "SunnyDaze",
+      "about_product": "Freshly squeezed orange juice without the pulp. Packed with vitamin C for a healthy start to your day.",
+      "actual_price": 9,
+      "discounted_price": 7,
+      "discount_percentage": 0.22,
+      "rating": 3.9,
+      "rating_count": 95,
+      "features": {
+        "type": "Orange Juice",
+        "pulp": "Pulp-Free",
+        "package_type": "Carton",
+        "size": "52 oz"
+      },
+      "img_link": "https://example.com/images/orangejuice.jpg",
+      "product_link": "https://example.com/products/orangejuice"
+    },
+    {
+      "product_name": "Iced Green Tea - Peach",
+      "brand": "Zenith Teas",
+      "about_product": "Refreshing iced green tea infused with natural peach flavor. A healthy and delicious way to stay hydrated.",
+      "actual_price": 5,
+      "discounted_price": 4,
+      "discount_percentage": 0.2,
+      "rating": 4.5,
+      "rating_count": 220,
+      "features": {
+        "type": "Iced Tea",
+        "flavor": "Peach",
+        "tea_type": "Green Tea",
+        "sweetened": "Lightly Sweetened"
+      },
+      "img_link": "https://example.com/images/icedgreentea.jpg",
+      "product_link": "https://example.com/products/icedgreentea"
+    },
+    {
+      "product_name": "Coconut Water - Pure & Natural",
+      "brand": "Tropical Oasis",
+      "about_product": "100% pure coconut water, straight from the coconut. Naturally hydrating and rich in electrolytes.",
+      "actual_price": 6,
+      "discounted_price": 5,
+      "discount_percentage": 0.17,
+      "rating": 4.7,
+      "rating_count": 288,
+      "features": {
+        "type": "Coconut Water",
+        "processed": "Unprocessed",
+        "additives": "None",
+        "size": "1 Liter"
+      },
+      "img_link": "https://example.com/images/coconutwater.jpg",
+      "product_link": "https://example.com/products/coconutwater"
+    },
+    {
+      "product_name": "Grape Juice - Concord",
+      "brand": "Welch's",
+      "about_product": "Made with real Concord grapes, this juice is a delicious and naturally sweet treat for the whole family.",
+      "actual_price": 8,
+      "discounted_price": 7,
+      "discount_percentage": 0.13,
+      "rating": 4.0,
+      "rating_count": 155,
+      "features": {
+        "type": "Grape Juice",
+        "grape_type": "Concord",
+        "package_type": "Bottle",
+        "size": "64 oz"
+      },
+      "img_link": "https://example.com/images/grapejuice.jpg",
+      "product_link": "https://example.com/products/grapejuice"
+    },
+    {
+      "product_name": "Energy Drink - Tropical Burst",
+      "brand": "ZipZap",
+      "about_product": "A powerful energy boost with a refreshing tropical flavor. Sugar-free and packed with vitamins.",
+      "actual_price": 4,
+      "discounted_price": 3,
+      "discount_percentage": 0.25,
+      "rating": 3.8,
+      "rating_count": 72,
+      "features": {
+        "type": "Energy Drink",
+        "flavor": "Tropical Burst",
+        "sugar_free": "Yes",
+        "caffeine_level": "High"
+      },
+      "img_link": "https://example.com/images/energydrink.jpg",
+      "product_link": "https://example.com/products/energydrink"
+    },
+    {
+      "product_name": "Bottled Water - Spring Water",
+      "brand": "AquaPure",
+      "about_product": "Pure and refreshing spring water, bottled at the source. A healthy and hydrating choice.",
+      "actual_price": 10,
+      "discounted_price": 8,
+      "discount_percentage": 0.2,
+      "rating": 4.3,
+      "rating_count": 205,
+      "features": {
+        "type": "Spring Water",
+        "pack_size": "24 x 16.9 oz Bottles",
+        "source": "Natural Spring",
+        "treatment": "Ozone Purified"
+      },
+      "img_link": "https://example.com/images/bottledwater.jpg",
+      "product_link": "https://example.com/products/bottledwater"
+    },
+    {
+      "product_name": "Oat Milk - Chocolate",
+      "brand": "OatlyGood",
+      "about_product": "Rich and creamy chocolate oat milk, a delicious dairy-free alternative. Perfect for drinking or adding to cereal.",
+      "actual_price": 8,
+      "discounted_price": 7,
+      "discount_percentage": 0.13,
+      "rating": 4.9,
+      "rating_count": 350,
+      "features": {
+        "type": "Oat Milk",
+        "flavor": "Chocolate",
+        "dairy_free": "Yes",
+        "size": "32 oz"
+      },
+      "img_link": "https://example.com/images/chocolatemilk.jpg",
+      "product_link": "https://example.com/products/chocolatemilk"
+    }
+  ],
+  "Groceries > Snacks": [
+    {
+      "product_name": "Sea Salt & Vinegar Kettle Cooked Potato Chips",
+      "brand": "Kettle Brand",
+      "about_product": "Thick-cut potatoes kettle-cooked to perfection with a tangy sea salt and vinegar flavor. Gluten-free and Non-GMO Project Verified.",
+      "actual_price": 4,
+      "discounted_price": 3,
+      "discount_percentage": 25.0,
+      "rating": 4.7,
+      "rating_count": 852,
+      "features": {
+        "Flavor": "Sea Salt & Vinegar",
+        "Size": "8.5 oz Bag",
+        "Dietary Information": "Gluten-Free, Non-GMO",
+        "Cooking Method": "Kettle Cooked"
+      },
+      "img_link": "https://example.com/kettle_chips.jpg",
+      "product_link": "https://example.com/products/kettle_chips"
+    },
+    {
+      "product_name": "Organic Cheddar Cheese Crackers",
+      "brand": "Annie's Homegrown",
+      "about_product": "Classic cheddar cheese crackers made with organic wheat flour and real cheddar cheese. A tasty snack for kids and adults alike.",
+      "actual_price": 5,
+      "discounted_price": 4,
+      "discount_percentage": 20.0,
+      "rating": 4.3,
+      "rating_count": 610,
+      "features": {
+        "Flavor": "Cheddar Cheese",
+        "Size": "6 oz Box",
+        "Dietary Information": "Organic",
+        "Allergen Information": "Contains Wheat and Milk"
+      },
+      "img_link": "https://example.com/annies_crackers.jpg",
+      "product_link": "https://example.com/products/annies_crackers"
+    },
+    {
+      "product_name": "Dark Chocolate Almonds",
+      "brand": "Brookside",
+      "about_product": "Whole roasted almonds covered in smooth, rich dark chocolate. A delicious and satisfying treat.",
+      "actual_price": 7,
+      "discounted_price": 6,
+      "discount_percentage": 14.29,
+      "rating": 4.8,
+      "rating_count": 987,
+      "features": {
+        "Flavor": "Dark Chocolate Almond",
+        "Size": "7 oz Bag",
+        "Type": "Chocolate Covered Nuts",
+        "Allergen Information": "Contains Almonds and Soy"
+      },
+      "img_link": "https://example.com/dark_chocolate_almonds.jpg",
+      "product_link": "https://example.com/products/dark_chocolate_almonds"
+    },
+    {
+      "product_name": "Peanut Butter Filled Pretzel Bites",
+      "brand": "Snyder's of Hanover",
+      "about_product": "Crunchy pretzel bites filled with creamy peanut butter. The perfect sweet and salty snack.",
+      "actual_price": 6,
+      "discounted_price": 5,
+      "discount_percentage": 16.67,
+      "rating": 4.5,
+      "rating_count": 743,
+      "features": {
+        "Flavor": "Peanut Butter",
+        "Size": "12 oz Bag",
+        "Type": "Pretzel Bites",
+        "Allergen Information": "Contains Peanuts, Wheat, and Soy"
+      },
+      "img_link": "https://example.com/peanut_butter_pretzels.jpg",
+      "product_link": "https://example.com/products/peanut_butter_pretzels"
+    },
+    {
+      "product_name": "Organic Dried Mango Slices",
+      "brand": "Made in Nature",
+      "about_product": "Chewy and naturally sweet dried mango slices made with organic mangoes. A healthy and delicious snack.",
+      "actual_price": 8,
+      "discounted_price": 7,
+      "discount_percentage": 12.5,
+      "rating": 4.6,
+      "rating_count": 589,
+      "features": {
+        "Flavor": "Mango",
+        "Size": "8 oz Bag",
+        "Dietary Information": "Organic, Gluten-Free",
+        "Processing": "Dried"
+      },
+      "img_link": "https://example.com/dried_mango.jpg",
+      "product_link": "https://example.com/products/dried_mango"
+    },
+    {
+      "product_name": "Spicy Nacho Tortilla Chips",
+      "brand": "Doritos",
+      "about_product": "Classic tortilla chips with a bold and spicy nacho cheese flavor. A party favorite.",
+      "actual_price": 4,
+      "discounted_price": 3,
+      "discount_percentage": 25.0,
+      "rating": 4.2,
+      "rating_count": 1200,
+      "features": {
+        "Flavor": "Spicy Nacho Cheese",
+        "Size": "9.75 oz Bag",
+        "Type": "Tortilla Chips",
+        "Allergen Information": "Contains Milk"
+      },
+      "img_link": "https://example.com/doritos_spicy.jpg",
+      "product_link": "https://example.com/products/doritos_spicy"
+    },
+    {
+      "product_name": "Cashews Roasted with Sea Salt",
+      "brand": "Planters",
+      "about_product": "Roasted cashews lightly seasoned with sea salt. A satisfying and nutritious snack.",
+      "actual_price": 9,
+      "discounted_price": 8,
+      "discount_percentage": 11.11,
+      "rating": 4.4,
+      "rating_count": 678,
+      "features": {
+        "Flavor": "Sea Salt",
+        "Size": "8 oz Can",
+        "Type": "Roasted Nuts",
+        "Allergen Information": "Contains Cashews"
+      },
+      "img_link": "https://example.com/planters_cashews.jpg",
+      "product_link": "https://example.com/products/planters_cashews"
+    },
+    {
+      "product_name": "Fruit Leather Variety Pack",
+      "brand": "Stretch Island",
+      "about_product": "All-natural fruit leather made with real fruit. A convenient and healthy snack for on-the-go.",
+      "actual_price": 12,
+      "discounted_price": 10,
+      "discount_percentage": 16.67,
+      "rating": 4.9,
+      "rating_count": 456,
+      "features": {
+        "Flavor": "Assorted Fruit Flavors",
+        "Size": "30-Count Box",
+        "Dietary Information": "All-Natural, Gluten-Free",
+        "Type": "Fruit Leather"
+      },
+      "img_link": "https://example.com/fruit_leather.jpg",
+      "product_link": "https://example.com/products/fruit_leather"
+    },
+    {
+      "product_name": "Original Beef Jerky",
+      "brand": "Jack Link's",
+      "about_product": "Tender strips of 100% beef marinated and smoked for a classic jerky flavor. High in protein.",
+      "actual_price": 8,
+      "discounted_price": 7,
+      "discount_percentage": 12.5,
+      "rating": 4.0,
+      "rating_count": 1122,
+      "features": {
+        "Flavor": "Original",
+        "Size": "5.85 oz Bag",
+        "Type": "Beef Jerky",
+        "Dietary Information": "High Protein"
+      },
+      "img_link": "https://example.com/beef_jerky.jpg",
+      "product_link": "https://example.com/products/beef_jerky"
+    },
+    {
+      "product_name": "White Cheddar Popcorn",
+      "brand": "SkinnyPop",
+      "about_product": "Light and airy popcorn seasoned with white cheddar cheese. A guilt-free snack.",
+      "actual_price": 5,
+      "discounted_price": 4,
+      "discount_percentage": 20.0,
+      "rating": 3.9,
+      "rating_count": 500,
+      "features": {
+        "Flavor": "White Cheddar",
+        "Size": "4.4 oz Bag",
+        "Dietary Information": "Gluten-Free",
+        "Type": "Popcorn"
+      },
+      "img_link": "https://example.com/white_cheddar_popcorn.jpg",
+      "product_link": "https://example.com/products/white_cheddar_popcorn"
+    }
+  ],
+  "Groceries > Organic Foods": [
+    {
+      "product_name": "Organic Gala Apples, 3 lb Bag",
+      "brand": "Nature's Promise",
+      "about_product": "Crisp and sweet organic Gala apples, perfect for snacking or baking. Grown without synthetic pesticides or fertilizers.",
+      "actual_price": 8,
+      "discounted_price": 6,
+      "discount_percentage": 0.25,
+      "rating": 4.6,
+      "rating_count": 325,
+      "features": {
+        "variety": "Gala",
+        "origin": "USA",
+        "weight": "3 lbs",
+        "organic": "Certified Organic"
+      },
+      "img_link": "https://example.com/images/organic_apples.jpg",
+      "product_link": "https://example.com/products/organic_apples"
+    },
+    {
+      "product_name": "Organic Baby Spinach, 5 oz Container",
+      "brand": "Earthbound Farm",
+      "about_product": "Fresh and tender organic baby spinach, pre-washed and ready to eat. A great source of vitamins and minerals.",
+      "actual_price": 5,
+      "discounted_price": 4,
+      "discount_percentage": 0.2,
+      "rating": 4.8,
+      "rating_count": 450,
+      "features": {
+        "type": "Baby Spinach",
+        "preparation": "Pre-washed",
+        "weight": "5 oz",
+        "organic": "Certified Organic"
+      },
+      "img_link": "https://example.com/images/organic_spinach.jpg",
+      "product_link": "https://example.com/products/organic_spinach"
+    },
+    {
+      "product_name": "Organic Rolled Oats, 32 oz Pouch",
+      "brand": "Bob's Red Mill",
+      "about_product": "Wholesome and hearty organic rolled oats, perfect for breakfast or baking. Made from whole grain oats.",
+      "actual_price": 7,
+      "discounted_price": 6,
+      "discount_percentage": 0.14,
+      "rating": 4.7,
+      "rating_count": 600,
+      "features": {
+        "type": "Rolled Oats",
+        "weight": "32 oz",
+        "organic": "Certified Organic",
+        "grain_type": "Whole Grain"
+      },
+      "img_link": "https://example.com/images/organic_oats.jpg",
+      "product_link": "https://example.com/products/organic_oats"
+    },
+    {
+      "product_name": "Organic Free-Range Eggs, 1 Dozen",
+      "brand": "Vital Farms",
+      "about_product": "Organic free-range eggs from pasture-raised hens. Rich and flavorful, perfect for any recipe.",
+      "actual_price": 9,
+      "discounted_price": 8,
+      "discount_percentage": 0.11,
+      "rating": 4.9,
+      "rating_count": 750,
+      "features": {
+        "quantity": "12",
+        "hen_diet": "Free-Range",
+        "organic": "Certified Organic",
+        "egg_size": "Large"
+      },
+      "img_link": "https://example.com/images/organic_eggs.jpg",
+      "product_link": "https://example.com/products/organic_eggs"
+    },
+    {
+      "product_name": "Organic Coconut Milk, 13.5 oz Can",
+      "brand": "Thai Kitchen",
+      "about_product": "Rich and creamy organic coconut milk, perfect for Asian-inspired dishes and desserts. Gluten-free and vegan.",
+      "actual_price": 4,
+      "discounted_price": 3,
+      "discount_percentage": 0.25,
+      "rating": 4.5,
+      "rating_count": 280,
+      "features": {
+        "type": "Coconut Milk",
+        "weight": "13.5 oz",
+        "organic": "Certified Organic",
+        "dietary_info": "Gluten-Free, Vegan"
+      },
+      "img_link": "https://example.com/images/organic_coconut_milk.jpg",
+      "product_link": "https://example.com/products/organic_coconut_milk"
+    },
+    {
+      "product_name": "Organic Raw Honey, 16 oz Jar",
+      "brand": "Manuka Health",
+      "about_product": "Pure and unfiltered organic raw honey, full of natural enzymes and antioxidants. Sourced from sustainably managed hives.",
+      "actual_price": 15,
+      "discounted_price": 13,
+      "discount_percentage": 0.13,
+      "rating": 4.4,
+      "rating_count": 200,
+      "features": {
+        "type": "Raw Honey",
+        "weight": "16 oz",
+        "organic": "Certified Organic",
+        "processing": "Unfiltered"
+      },
+      "img_link": "https://example.com/images/organic_honey.jpg",
+      "product_link": "https://example.com/products/organic_honey"
+    },
+    {
+      "product_name": "Organic Whole Wheat Bread",
+      "brand": "Dave's Killer Bread",
+      "about_product": "Organic whole wheat bread, packed with whole grains and fiber. A healthy and delicious choice for sandwiches and toast.",
+      "actual_price": 6,
+      "discounted_price": 5,
+      "discount_percentage": 0.17,
+      "rating": 4.7,
+      "rating_count": 550,
+      "features": {
+        "type": "Whole Wheat",
+        "organic": "Certified Organic",
+        "dietary_info": "Whole Grain",
+        "bread_type": "Loaf"
+      },
+      "img_link": "https://example.com/images/organic_bread.jpg",
+      "product_link": "https://example.com/products/organic_bread"
+    },
+    {
+      "product_name": "Organic Black Beans, 15 oz Can",
+      "brand": "Amy's Kitchen",
+      "about_product": "Organic black beans, cooked and ready to use. A versatile and nutritious ingredient for soups, salads, and more.",
+      "actual_price": 3,
+      "discounted_price": 2,
+      "discount_percentage": 0.33,
+      "rating": 4.3,
+      "rating_count": 300,
+      "features": {
+        "type": "Black Beans",
+        "weight": "15 oz",
+        "organic": "Certified Organic",
+        "preparation": "Cooked"
+      },
+      "img_link": "https://example.com/images/organic_black_beans.jpg",
+      "product_link": "https://example.com/products/organic_black_beans"
+    },
+    {
+      "product_name": "Organic Green Tea Bags, 20 Count",
+      "brand": "Traditional Medicinals",
+      "about_product": "Organic green tea bags, naturally caffeine-free and full of antioxidants. A soothing and refreshing beverage.",
+      "actual_price": 7,
+      "discounted_price": 6,
+      "discount_percentage": 0.14,
+      "rating": 4.2,
+      "rating_count": 180,
+      "features": {
+        "type": "Green Tea",
+        "quantity": "20 Bags",
+        "organic": "Certified Organic",
+        "caffeine": "Naturally Decaffeinated"
+      },
+      "img_link": "https://example.com/images/organic_tea.jpg",
+      "product_link": "https://example.com/products/organic_tea"
+    },
+    {
+      "product_name": "Organic Ketchup, 20 oz Bottle",
+      "brand": "Primal Kitchen",
+      "about_product": "Organic ketchup, made with organic tomatoes and spices. A delicious and healthy condiment without high fructose corn syrup.",
+      "actual_price": 8,
+      "discounted_price": 7,
+      "discount_percentage": 0.13,
+      "rating": 3.9,
+      "rating_count": 220,
+      "features": {
+        "type": "Ketchup",
+        "weight": "20 oz",
+        "organic": "Certified Organic",
+        "sweetener": "No High Fructose Corn Syrup"
+      },
+      "img_link": "https://example.com/images/organic_ketchup.jpg",
+      "product_link": "https://example.com/products/organic_ketchup"
+    }
+  ]
+}

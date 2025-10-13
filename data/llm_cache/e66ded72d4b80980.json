@@ -1,0 +1,13 @@
+{
+  "explanation": "Based on the user's recent activity of adding footwear products to their cart, we recommend this footwear item to potentially fulfill their need for shoes. This recommendation is also supported by the user's browsing history related to other fashion items.",
+  "evidence": [
+    "add_to_cart product 7 Wonders",
+    "add_to_cart product Exfoliating Glycolic Acid Toner",
+    "view product Classic Leather Chelsea Boots",
+    "view product Pro Filt'r Instant Retouch Concealer",
+    "view product Men's Leather Oxford Shoes"
+  ],
+  "product_id": "P00061",
+  "user_id": "C00054",
+  "timestamp": "2025-10-12T12:58:53.877750"
+}

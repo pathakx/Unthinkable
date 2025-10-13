@@ -1,0 +1,15 @@
+{
+  "created_at_utc": "2025-10-09T08:22:29Z",
+  "source_db": "B:\\Project\\Recommendation\\data\\product_catalog.db",
+  "table": "products",
+  "parquet_path": "B:\\Project\\Recommendation\\data\\embeddings\\products.parquet",
+  "model": "all-MiniLM-L6-v2",
+  "device": null,
+  "embedding_dim": 384,
+  "row_count": 270,
+  "batch_size": 256,
+  "chunksize": 0,
+  "text_max_len": 2000,
+  "sample_embedding_md5": "c68ff48e219de03f1d5bb96b4312bed1",
+  "version": 2
+}
