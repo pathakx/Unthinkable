@@ -94,7 +94,7 @@ This project is licensed under the [MIT License](LICENSE).
 **[pathakx](https://github.com/pathakx)**
 Made with ❤️ to explore unthinkable possibilities.
 
-```
+
 
 ---
 
@@ -104,7 +104,7 @@ Would you like me to **enhance it** with:
 - a **demo screenshot/GIF section**?
 
 Those make your GitHub page look much more polished and professional.
-```
+
 ## Directory:
 <img width="361" height="824" alt="image" src="https://github.com/user-attachments/assets/fb6eae1b-9b76-4124-b289-8c827fa44033" />
 
@@ -113,6 +113,7 @@ Those make your GitHub page look much more polished and professional.
 <img width="1919" height="1045" alt="image" src="https://github.com/user-attachments/assets/045cacbd-5897-498f-b0a8-2d878673238a" />
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/ce9ee54d-510a-42f8-9edd-c6065199abb7" />
 <img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/4831db7b-b307-4025-a324-1aa0fb3f4bd1" />
+
 
 
 
